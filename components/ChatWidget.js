@@ -43,7 +43,7 @@ export default function ChatWidget() {
         <div className="chat-box" ref={chatRef}>
           <div className="chat-header">
             <div>
-              <strong>Chat with SAPOCOM</strong>
+              <strong>Chat with Sanocom</strong>
               <p>Quick help for demos, pricing & support</p>
             </div>
             <span

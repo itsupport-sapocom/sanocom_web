@@ -29,35 +29,35 @@ function Services() {
   const servicesFAQs = [
     {
       question: "What Are SAP Industry-Specific Solutions?",
-      answer: "SAP Industry-Specific Solutions are tailored SAP modules designed to address unique challenges in sectors like oil and gas, mining, and agriculture. They optimize processes such as commodity management and logistics using tools like S/4HANA and IS-Oil. Sapocom Global delivers these for seamless business transformation on their services page."
+      answer: "SAP Industry-Specific Solutions are tailored SAP modules designed to address unique challenges in sectors like oil and gas, mining, and agriculture. They optimize processes such as commodity management and logistics using tools like S/4HANA and IS-Oil. Sanocom Global delivers these for seamless business transformation on their services page."
     },
     {
-      question: "How Does Sapocom Implement SAP Industry-Specific Solutions?",
-      answer: "Sapocom follows a structured approach with planning, configuration, testing, and training to deploy solutions like S4SCSD and RFNO. Their services include SAP implementation, rollout, and support for global projects. This ensures customized alignment with industry needs for efficiency gains."
+      question: "How Does Sanocom Implement SAP Industry-Specific Solutions?",
+      answer: "Sanocom follows a structured approach with planning, configuration, testing, and training to deploy solutions like S4SCSD and RFNO. Their services include SAP implementation, rollout, and support for global projects. This ensures customized alignment with industry needs for efficiency gains."
     },
     {
-      question: "What Industries Benefit from Sapocom's SAP Solutions?",
-      answer: "Key sectors include Oil & Gas (with SDM, IDM), Metal & Mining, and Agriculture via dedicated SAP modules like Commodity Trading & Risk Management. Services cover material management, sales & distribution, and ABAP Fiori. Sapocom's expertise drives operations in these areas."
+      question: "What Industries Benefit from Sanocom's SAP Solutions?",
+      answer: "Key sectors include Oil & Gas (with SDM, IDM), Metal & Mining, and Agriculture via dedicated SAP modules like Commodity Trading & Risk Management. Services cover material management, sales & distribution, and ABAP Fiori. Sanocom's expertise drives operations in these areas."
     },
     {
-      question: "Key Services for SAP Industry-Specific Solutions at Sapocom",
+      question: "Key Services for SAP Industry-Specific Solutions at Sanocom",
       answer: "Core offerings encompass SAP implementation, data migration, technical upgrades, advisory, training, and talent resourcing. They support modules like S/4 HANA Oil & Gas and Global Trade Management. These enable future-proof growth and innovation."
     },
     {
-      question: "Benefits of Choosing Sapocom for SAP Industry Solutions",
-      answer: "Clients gain cost-effective, high-quality implementations from certified experts, minimizing risks and enhancing efficiency. Advantages include global project experience and tailored support. Sapocom fosters long-term value through proven methodologies."
+      question: "Benefits of Choosing Sanocom for SAP Industry Solutions",
+      answer: "Clients gain cost-effective, high-quality implementations from certified experts, minimizing risks and enhancing efficiency. Advantages include global project experience and tailored support. Sanocom fosters long-term value through proven methodologies."
     },
     {
-      question: "How to Get Started with Sapocom's SAP Services?",
+      question: "How to Get Started with Sanocom's SAP Services?",
       answer: "Begin with SAP Readiness Analysis and IT Strategy advisory on their services page, followed by implementation and sustenance. Contact for modules like SAP IS-Oil or core upgrades. Their global network ensures scalable, industry-focused results."
     }
   ];
 
   return (
     <>
-      <SetHeaders title='SAP Industry-Specific Solutions | Expert SAP Consulting' description="Unlock tailored SAP Industry-Specific Solutions with SAPOCOM's global consulting & talent expertise. Transform your business today—request your free quote now!" keywords='SAP Industry-Specific Solutions' canonicalRoute='/sap-services' image='https://sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Foverview.c3075b6b.png&w=750&q=75' />
+      <SetHeaders title='SAP Industry-Specific Solutions | Expert SAP Consulting' description="Unlock tailored SAP Industry-Specific Solutions with Sanocom's global consulting & talent expertise. Transform your business today—request your free quote now!" keywords='SAP Industry-Specific Solutions' canonicalRoute='/sap-services' image='https://sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Foverview.c3075b6b.png&w=750&q=75' />
 
-      <HeaderBanner heading='SAP Industry-Specific Solutions for Global Projects | SAPOCOM Tech' para='Integrated platform for Oil & Gas, Metal & Mining to facilitate digital transformation using SAP business processes for future
+      <HeaderBanner heading='SAP Industry-Specific Solutions for Global Projects | Sanocom Tech' para='Integrated platform for Oil & Gas, Metal & Mining to facilitate digital transformation using SAP business processes for future
 sustainability & growth.' bgImg={serviceBanner} />
 
 
@@ -167,7 +167,7 @@ sustainability & growth.' bgImg={serviceBanner} />
       <section className='w-full p-4 py-8 md:py-10 ' >
         <div className='max-w-900 mx-auto grid max-md:grid-rows-[1fr_300px] md:grid-cols-[1fr_300px] rounded-lg bg-grey p-4 md:p-6 text-black gap-4'>
           <div>
-            <h2 data-aos='flip-up' className='text-3xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-primary from-30%  to-secondary to-90% mb-4 md:mb-8 max-w-[550px]'>Revolutionize Your Business Operations with SAPOCOM&apos; s SAP Services</h2>
+            <h2 data-aos='flip-up' className='text-3xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-primary from-30%  to-secondary to-90% mb-4 md:mb-8 max-w-[550px]'>Revolutionize Your Business Operations with Sanocom&apos; s SAP Services</h2>
             <div className='grid grid-cols-1 w-full'>
               {
                 serviceSolution.map((point, ind) => {
@@ -270,7 +270,7 @@ sustainability & growth.' bgImg={serviceBanner} />
       <section className='w-full p-4 py-8 md:py-10 bg-gradient-to-r from-primary to-secondary text-white'>
         <div className='max-w-1200 mx-auto'>
           <p data-aos='fade-up' data-aos-delay='100' className='text-white uppercase mb-4 font-medium'>Advantages</p>
-          <h2 data-aos='fade-up' data-aos-delay='200' className='text-3xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-white to-white/50 mb-8'>Advantages in working with SAPOCOM</h2>
+          <h2 data-aos='fade-up' data-aos-delay='200' className='text-3xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-white to-white/50 mb-8'>Advantages in working with Sanocom</h2>
           {/* Desktop View card */}
           <div className="max-w-1000 mx-auto grid grid-cols-auto-3 gap-4 md:gap-8 justify-items-center max-md:hidden">
             {
@@ -322,7 +322,7 @@ sustainability & growth.' bgImg={serviceBanner} />
       <CtaBanner />
 
       <ClientReviews
-        message='We successfully went live in January 2022 with key functionalities which is  Commodity Pricing Engine & Global Trade Management. SAPOCOM played a critical role across configuration, development, testing, and defect resolution. Their strong expertise in commodity Management ensured a smooth and efficient implementation. The team demonstrated exceptional responsiveness and commitment throughout the project lifecycle. We look forward to continued collaboration ahead.'
+        message='We successfully went live in January 2022 with key functionalities which is  Commodity Pricing Engine & Global Trade Management. Sanocom played a critical role across configuration, development, testing, and defect resolution. Their strong expertise in commodity Management ensured a smooth and efficient implementation. The team demonstrated exceptional responsiveness and commitment throughout the project lifecycle. We look forward to continued collaboration ahead.'
         name='Vladimir Soloviev'
         position='Executive Director at PWC'
         image={clientImage}

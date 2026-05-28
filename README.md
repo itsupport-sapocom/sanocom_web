@@ -1,4 +1,4 @@
-# Sapocom Official Website
+# Sanocom Official Website
 
 Tech Stack used is Next JS, Tailwind CSS.
 
@@ -16,7 +16,7 @@ Website contains 4 main page and 4 subpage.
 3. Mining & Metals Page
 4. Agriculture Page
 
-Check out [Sapocom Deployment Link](https://sapocom.vercel.app) for Layout. 
+Check out [Sanocom Deployment Link](https://sanocom.vercel.app) for Layout. 
 (NOTE: This is temporarily link for development)
 
 

@@ -1,8 +1,8 @@
 import React from 'react'
 import Image from 'next/image'
-import whyChooseSapocomTime from '../assets/images/icons/why-choose-sapocom-time.svg'
-import whyChooseSapocomBulb from '../assets/images/icons/why-choose-sapocom-bulb.svg'
-import whyChooseSapocomStar from '../assets/images/icons/why-choose-sapocom-person-with-star.svg'
+import whyChooseSapocomTime from '../assets/images/icons/why-choose-sanocom-time.svg'
+import whyChooseSapocomBulb from '../assets/images/icons/why-choose-sanocom-bulb.svg'
+import whyChooseSapocomStar from '../assets/images/icons/why-choose-sanocom-person-with-star.svg'
 
 
 function WhyChooseSapocom() {
@@ -12,7 +12,7 @@ function WhyChooseSapocom() {
             <section className='w-full p-4 max-md:py-8 py-10 max-w-1200 mx-auto ' >
                 <div className='flex items-center flex-col mb-10 max-md:mb-5 text-center'>
                     <p data-aos='flip-left' data-aos-delay='100' className='text-black uppercase mb-2 font-medium'>Why Choose</p>
-                    <h2 data-aos='flip-right' data-aos-delay='100' className='md:text-4xl text-3xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-primary from-30%  to-secondary to-90% mb-2'>Why Choose SAPOCOM ?</h2>
+                    <h2 data-aos='flip-right' data-aos-delay='100' className='md:text-4xl text-3xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-primary from-30%  to-secondary to-90% mb-2'>Why Choose Sanocom ?</h2>
                     <p data-aos='flip-left' data-aos-delay='100' className='text-black opacity-70 text-center'>Our state-of-the-art digital solutions promise our clients exponential growth toward a sustainable future.</p>
                 </div>
                 {/* View for Desktop */}

@@ -71,7 +71,7 @@ export default function JobForm({ jobData }) {
             Join Our Team – Apply Today!
           </h2>
           <p className="text-center text-gray-500 text-base mb-4">
-            Discover Exciting Opportunities to Shape Your Career with Sapocom
+            Discover Exciting Opportunities to Shape Your Career with Sanocom
           </p>
           <form
             className="max-w-800 mx-auto md:p-4"

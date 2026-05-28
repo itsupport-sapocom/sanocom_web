@@ -6,7 +6,7 @@ import industryAboutChemical from '@/assets/images/industry/chemical/industryAbo
 export default function AboutIndustry({ title = 'company', heading = 'Enter Title', description = 'Your description will come here', keyPoints = ['points', 'points', 'points', 'points'], image = industryAboutChemical }) {
     return (
         <>
-            {/* About Sapocom */}
+            {/* About Sanocom */}
             <section className='w-full p-4 py-8 md:py-10 bg-gradient-to-r from-secondary to-black text-white' >
                 <div className='max-w-1200 mx-auto flex gap-10 flex-wrap '>
                     <div className="flex-1">
@@ -17,7 +17,7 @@ export default function AboutIndustry({ title = 'company', heading = 'Enter Titl
                             {
                                 keyPoints.map((point, ind) => {
                                     return (
-                                        <div key={ind} data-aos='flip-left' data-aos-delay={ind*100} className='flex items-center p-2 px-0'>
+                                        <div key={ind} data-aos='flip-left' data-aos-delay={ind * 100} className='flex items-center p-2 px-0'>
                                             <Image alt='check' src={require('../assets/images/icons/check.svg')} className='w-4 h-4 mr-3' />
                                             <p>{point}</p>
                                         </div>

@@ -40,11 +40,11 @@ const whyChooseUs = [
 function DataUpgradePage() {
   return (
     <>
-      <SetHeaders title={`Data Upgrade | Sapocom`} />
+      <SetHeaders title={`Data Upgrade | Sanocom`} />
       {/* Header Banner */}
       <HeaderBanner
         heading="Data Upgrade"
-        para="Upgrading data is more than just moving it, it's about transforming it so your systems stay coherent, compliant, and ready for future demands. At SAPOCOM, our Data Upgrade service ensures your existing data is evaluated, converted, and validated to work seamlessly in your upgraded environment."
+        para="Upgrading data is more than just moving it, it's about transforming it so your systems stay coherent, compliant, and ready for future demands. At Sanocom, our Data Upgrade service ensures your existing data is evaluated, converted, and validated to work seamlessly in your upgraded environment."
         bgImg={service}
         btnText={null}
       />
@@ -63,7 +63,7 @@ function DataUpgradePage() {
       {/* CTA */}
       <ServicesCtaCard
         title="Partner with Us"
-        description="SAPOCOM continues to shape digital transformation journeys through successful SAP implementations. Connect with us to explore how we can empower your organization with the right SAP solutions."
+        description="Sanocom continues to shape digital transformation journeys through successful SAP implementations. Connect with us to explore how we can empower your organization with the right SAP solutions."
       />
     </>
   );

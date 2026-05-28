@@ -44,7 +44,7 @@ export default function App({ Component, pageProps }) {
             {`{
             "@context": "https://schema.org",
             "@type": "Corporation",
-            "name": "SAPOCOM Technologies",
+            "name": "Sanocom Technologies",
             "url": "https://www.sapocomglobal.com/",
             "logo": "https://www.sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.5a1837bf.png&w=128&q=75",
             "contactPoint": {
@@ -56,7 +56,7 @@ export default function App({ Component, pageProps }) {
               "availableLanguage": "en"
             },
             "sameAs": [
-              "https://www.linkedin.com/company/sapocom/",
+              "https://www.linkedin.com/company/sanocom/",
               "https://www.sapocomglobal.com/"
             ]
           }`}
@@ -65,7 +65,7 @@ export default function App({ Component, pageProps }) {
             {`{
               "@context": "https://schema.org",
               "@type": "LocalBusiness",
-              "name": "SAPOCOM TECHNOLOGIES",
+              "name": "Sanocom TECHNOLOGIES",
               "image": "https://lh3.googleusercontent.com/p/AF1QipM6MtfjLesdYhRJjVBGZoxI0A7gikiKqJXoxDGj=s1360-w1360-h1020-rw",
               "@id": "",
               "url": "https://share.google/FArTCPOFWLzmKkKIq",
@@ -96,7 +96,7 @@ export default function App({ Component, pageProps }) {
                 "closes": "19:00"
               },
               "sameAs": [
-                "https://www.linkedin.com/company/sapocom/",
+                "https://www.linkedin.com/company/sanocom/",
                 "https://www.sapocomglobal.com/"
               ] 
             }`}

@@ -1,7 +1,7 @@
 import React from 'react';
 
 export function ServicesWhyChooseUs(props) {
-  const { options = [], title = 'Why Choose SAPOCOM?' } = props;
+  const { options = [], title = 'Why Choose Sanocom?' } = props;
   return (
     <section className="w-full p-4 max-md:py-8 py-10 max-w-1200 mx-auto ">
       <div className="flex items-center flex-col mb-5 text-center">

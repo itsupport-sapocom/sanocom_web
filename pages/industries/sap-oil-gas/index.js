@@ -24,7 +24,7 @@ function OilGasPage() {
   const oilGasFAQs = [
     {
       question: "What is SAP Secondary Distribution Management?",
-      answer: "SAP Secondary Distribution Management (SDM) optimizes the order-to-cash process for oil and gas downstream operations, handling distribution from terminals to customers, wholesalers, and service stations. It automates logistics, forecasting, and dispatching and integrates with transportation providers for efficient fuel delivery. Sapocom Global leverages SDM to streamline secondary distribution for oil and gas clients."
+      answer: "SAP Secondary Distribution Management (SDM) optimizes the order-to-cash process for oil and gas downstream operations, handling distribution from terminals to customers, wholesalers, and service stations. It automates logistics, forecasting, and dispatching and integrates with transportation providers for efficient fuel delivery. Sanocom Global leverages SDM to streamline secondary distribution for oil and gas clients."
     },
     {
       question: "How does SAP Retail Fuel Network Operation work?",
@@ -32,19 +32,19 @@ function OilGasPage() {
     },
     {
       question: "What are the key features of SAP IS-Oil Downstream?",
-      answer: "SAP IS-Oil Downstream, including OGSD components, covers purchase, storage, transportation, and sales of fuels and lubricants in petroleum trade. It supports business processes for wholesalers, resellers, and stations with tools like route optimization and demand forecasting. Sapocom Global implements these for smarter upstream and downstream efficiency."
+      answer: "SAP IS-Oil Downstream, including OGSD components, covers purchase, storage, transportation, and sales of fuels and lubricants in petroleum trade. It supports business processes for wholesalers, resellers, and stations with tools like route optimization and demand forecasting. Sanocom Global implements these for smarter upstream and downstream efficiency."
     },
     {
       question: "Benefits of SAP Secondary Distribution Management for Oil & Gas",
-      answer: "It centralizes customer data, automates order generation via consumption forecasts, and enables route planning to reduce costs and delays. Integration with SAP ERP eliminates manual entries and handles price fluctuations effectively. Oil and gas companies gain competitive edges in secondary distribution through Sapocom's expertise."
+      answer: "It centralizes customer data, automates order generation via consumption forecasts, and enables route planning to reduce costs and delays. Integration with SAP ERP eliminates manual entries and handles price fluctuations effectively. Oil and gas companies gain competitive edges in secondary distribution through Sanocom's expertise."
     },
     {
       question: "How does SAP IS-Oil Downstream integrate with SAP TM?",
-      answer: "SAP IS-Oil Downstream integrates with SAP Transportation Management (TM) for advanced scheduling, logistics execution, and secondary distribution from depots to outlets. This ensures real-time tracking, stock control, and invoicing alignment. Sapocom Global supports such integrations for comprehensive oil and gas solutions."
+      answer: "SAP IS-Oil Downstream integrates with SAP Transportation Management (TM) for advanced scheduling, logistics execution, and secondary distribution from depots to outlets. This ensures real-time tracking, stock control, and invoicing alignment. Sanocom Global supports such integrations for comprehensive oil and gas solutions."
     },
     {
-      question: "Why choose Sapocom Global for SAP Retail Fuel Network Operation?",
-      answer: "Sapocom Global specializes in SAP IS-Oil Downstream implementations, including RFNO and SDM, for retail station reconciliations and network optimization. Clients benefit from tailored solutions like S4SCSD, IDM, and remote logistics management to cut costs and increase profits. Their oil and gas focus delivers industry-specific results."
+      question: "Why choose Sanocom Global for SAP Retail Fuel Network Operation?",
+      answer: "Sanocom Global specializes in SAP IS-Oil Downstream implementations, including RFNO and SDM, for retail station reconciliations and network optimization. Clients benefit from tailored solutions like S4SCSD, IDM, and remote logistics management to cut costs and increase profits. Their oil and gas focus delivers industry-specific results."
     }
   ];
 
@@ -95,7 +95,7 @@ function OilGasPage() {
       <CtaBanner />
 
       <ClientReviews
-        message="SAPOCOM experts played a key role in implementation and launch of functionality of new commodity price engine CPE/ CPF in one of the biggest mining projects starting from configuration and supporting developments, testing and defect resolution.From the outset, the team demonstrated an impressive level of professionalism and expertise. The team's communication was excellent, and we always felt informed and involved throughout the project. We are grateful for contribution of SAPOCOM colleagues and hope for future perspective cooperation."
+        message="Sanocom experts played a key role in implementation and launch of functionality of new commodity price engine CPE/ CPF in one of the biggest mining projects starting from configuration and supporting developments, testing and defect resolution.From the outset, the team demonstrated an impressive level of professionalism and expertise. The team's communication was excellent, and we always felt informed and involved throughout the project. We are grateful for contribution of Sanocom colleagues and hope for future perspective cooperation."
         name='Vladimir Soloviev'
         position='Executive Director at PWC'
         image={clientImage}

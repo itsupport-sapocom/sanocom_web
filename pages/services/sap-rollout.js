@@ -42,11 +42,11 @@ const whyChooseUs = [
 function SapRolloutPage() {
   return (
     <>
-      <SetHeaders title={`SAP Rollout | Sapocom`} />
+      <SetHeaders title={`SAP Rollout | Sanocom`} />
       {/* Header Banner */}
       <HeaderBanner
         heading="SAP Rollout"
-        para="At SAPOCOM, we make SAP rollouts seamless across multiple business units and locations. Our methodology ensures alignment with business goals, consistent data across operations, and smooth adoption by end-users, helping your organization unlock the full value of SAP."
+        para="At Sanocom, we make SAP rollouts seamless across multiple business units and locations. Our methodology ensures alignment with business goals, consistent data across operations, and smooth adoption by end-users, helping your organization unlock the full value of SAP."
         bgImg={service}
         btnText={null}
       />

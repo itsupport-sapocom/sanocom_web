@@ -147,10 +147,10 @@ export default function CommodityTradingManagementSystem() {
                     <div className="bg-purple-50 border-l-4 border-primary p-5 my-8 rounded-r-lg">
                         <p className="text-gray-800">
                             Visit our{' '}
-                            <a href="https://www.linkedin.com/company/sapocom-technologies" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline font-semibold">
+                            <a href="https://www.linkedin.com/company/sanocom-technologies" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline font-semibold">
                                 LinkedIn profile
                             </a>{' '}
-                            to get in touch with our team. Sapocom Technologies
+                            to get in touch with our team. Sanocom Technologies
                         </p>
                     </div>
 

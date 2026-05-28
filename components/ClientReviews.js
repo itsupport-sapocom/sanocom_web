@@ -4,8 +4,8 @@ import map from '@/assets/images/industry/map.png'
 import doubleQuote from '../assets/images/icons/double-quote.svg'
 
 
-export default function ClientReviews({ message = 'We successfully went live in January 2022 with key functionalities which is  Commodity Pricing Engine &Global Trade Management. SAPOCOM played a critical role across configuration, development, testing, and defect resolution. Their strong expertise in commodity Management ensured a smooth and efficient implementation. The team demonstrated exceptional responsiveness and commitment throughout the project lifecycle. We look forward to continued collaboration ahead.', name = 'Vladimir Soloviev',
-position = 'Executive Director at PWC', image }) {
+export default function ClientReviews({ message = 'We successfully went live in January 2022 with key functionalities which is  Commodity Pricing Engine &Global Trade Management. Sanocom played a critical role across configuration, development, testing, and defect resolution. Their strong expertise in commodity Management ensured a smooth and efficient implementation. The team demonstrated exceptional responsiveness and commitment throughout the project lifecycle. We look forward to continued collaboration ahead.', name = 'Vladimir Soloviev',
+  position = 'Executive Director at PWC', image }) {
   return (
     <>
       <section className='w-full p-4 py-10 bg-black' >

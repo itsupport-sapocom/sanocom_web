@@ -45,11 +45,11 @@ const whyChooseUs = [
 function AdvisoryPage() {
   return (
     <>
-      <SetHeaders title={`Advisory | Sapocom`} />
+      <SetHeaders title={`Advisory | Sanocom`} />
       {/* Header Banner */}
       <HeaderBanner
         heading="Advisory"
-        para="Strategic guidance is what separates good SAP deployments from great ones. At SAPOCOM, our Advisory Services help you align your SAP strategy with your long-term business goals, reduce risks, and make the most of your investment in SAP."
+        para="Strategic guidance is what separates good SAP deployments from great ones. At Sanocom, our Advisory Services help you align your SAP strategy with your long-term business goals, reduce risks, and make the most of your investment in SAP."
         bgImg={service}
         btnText={null}
       />
@@ -68,7 +68,7 @@ function AdvisoryPage() {
       {/* CTA */}
       <ServicesCtaCard
         title="Partner with Us"
-        description="SAPOCOM continues to shape digital transformation journeys through successful SAP implementations. Connect with us to explore how we can empower your organization with the right SAP solutions."
+        description="Sanocom continues to shape digital transformation journeys through successful SAP implementations. Connect with us to explore how we can empower your organization with the right SAP solutions."
       />
     </>
   );

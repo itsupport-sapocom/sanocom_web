@@ -24,13 +24,13 @@ export default function Agriculture() {
   return (
     <>
       <SetHeaders title='Deal Capture Made Easy - SAP Agriculture Solutions' description='Simplify deal capture in agriculture with SAP. Streamline operations, boost efficiency & grow faster. Get started today!' keywords='Deal Capture' canonicalRoute='/industries/agriculture' image='https://www.sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FindustryAbout.da7f652b.png&w=750&q=75' />
-      
+
       <HeaderBanner heading='SAP Agriculture - Modernize Your Business With Smart Deal Capture Solutions: USA | UAE | UK' para='Stay ahead in the agricultural sector with our futuristic solutions to optimize management and gain insights with useful analytics.' bgImg={bgBanner} />
 
       <AboutIndustry
         title='Overview'
         heading='Transform Your Agricultural Business With Our Cutting-Edge Solutions That Lead The Industry'
-        description="Are you in the agriculture industry and struggling to keep track of prices and logistics? Look no further than Sapocom's Agricultural Contract Management (ACM) module!"
+        description="Are you in the agriculture industry and struggling to keep track of prices and logistics? Look no further than Sanocom's Agricultural Contract Management (ACM) module!"
         image={industryAbout}
         keyPoints={['Emphasizing point to be added', 'Connected truck, rail, marine, pipeline management', "Process monitoring across supply, production, inventory, and emand", 'Inclusion of crop details in the sales terms in grower contracts']}
       />
@@ -66,7 +66,7 @@ export default function Agriculture() {
       <CtaBanner />
 
       <ClientReviews
-        message='We successfully went live in January 2022 with key functionalities which is  Commodity Pricing Engine &Global Trade Management. SAPOCOM played a critical role across configuration, development, testing, and defect resolution. Their strong expertise in commodity Management ensured a smooth and efficient implementation. The team demonstrated exceptional responsiveness and commitment throughout the project lifecycle. We look forward to continued collaboration ahead.'
+        message='We successfully went live in January 2022 with key functionalities which is  Commodity Pricing Engine &Global Trade Management. Sanocom played a critical role across configuration, development, testing, and defect resolution. Their strong expertise in commodity Management ensured a smooth and efficient implementation. The team demonstrated exceptional responsiveness and commitment throughout the project lifecycle. We look forward to continued collaboration ahead.'
         name='Vladimir Soloviev'
         position='Executive Director at PWC'
         image={clientImage}

@@ -1,4 +1,4 @@
-import aboutSapocomSection from '@/assets/images/home/about-sapocom-section.png';
+import aboutSapocomSection from '@/assets/images/home/about-sanocom-section.png';
 import checkIcon from '@/assets/images/icons/check-with-circle.svg';
 import Image from 'next/image';
 

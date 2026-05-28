@@ -12,7 +12,7 @@ export default function BlogIndex() {
     return (
         <>
             <SetHeaders
-                title="SAP Insights & Expert Blogs | Sapocom Technologies"
+                title="SAP Insights & Expert Blogs | Sanocom Technologies"
                 description="Explore expert insights on SAP solutions, implementation strategies, and industry best practices."
                 keywords="SAP blogs, SAP insights, SAP CTRM, SAP implementation"
                 canonicalRoute="/blog"

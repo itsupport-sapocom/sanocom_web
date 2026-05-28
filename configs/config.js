@@ -278,7 +278,7 @@ export const whyChooseUsData = [
   {
     name: "Breadth & Depth",
     description:
-      "Our team at Sapocom possesses extensive industry experience in the Metal & Mining and Oil & Gas sectors. We have deep knowledge and understanding of the specific challenges, requirements, and best practices within these industries.",
+      "Our team at Sanocom possesses extensive industry experience in the Metal & Mining and Oil & Gas sectors. We have deep knowledge and understanding of the specific challenges, requirements, and best practices within these industries.",
     image: socialPeopleSvg,
   },
 ];
@@ -361,14 +361,14 @@ export const reviewData = [
     name: "Vladimir Soloview",
     position: "Executive Director at PWC",
     review:
-      "SAPOCOM experts played a key role in implementation and launch of functionality of new commodity price engine CPE/ CPF in one of the biggest mining projects starting from configuration and supporting developments, testing and defect resolution. From the outset, the team demonstrated an impressive level of professionalism and expertise. Their attention to detail and willingness to work closely with us to ensure that our needs were met were truly appreciated. The team's communication was excellent, and we always felt informed and involved throughout the project. We are grateful for contribution of SAPOCOM colleagues and hope for future perspective cooperation.",
+      "Sanocom experts played a key role in implementation and launch of functionality of new commodity price engine CPE/ CPF in one of the biggest mining projects starting from configuration and supporting developments, testing and defect resolution. From the outset, the team demonstrated an impressive level of professionalism and expertise. Their attention to detail and willingness to work closely with us to ensure that our needs were met were truly appreciated. The team's communication was excellent, and we always felt informed and involved throughout the project. We are grateful for contribution of Sanocom colleagues and hope for future perspective cooperation.",
     image: reviewPerson1,
   },
   {
     name: "Dominic M Pinili",
     position: "Head of Solutions Delivery",
     review:
-      "I want to extend my gratitude to each member of the Sapocom team for their hard work, professionalism, and dedication. It is because of your collective efforts that we now have a top-notch solution that meets our requirements and exceeds our expectations. We look forward to continuing our partnership with Sapocom and working together on future projects. Without a doubt, we highly recommend the Sapocom team to any organization seeking excellence in project delivery.Thank you once again for your outstanding work.",
+      "I want to extend my gratitude to each member of the Sanocom team for their hard work, professionalism, and dedication. It is because of your collective efforts that we now have a top-notch solution that meets our requirements and exceeds our expectations. We look forward to continuing our partnership with Sanocom and working together on future projects. Without a doubt, we highly recommend the Sanocom team to any organization seeking excellence in project delivery.Thank you once again for your outstanding work.",
     image: reviewPerson2,
   },
 ];
@@ -432,7 +432,7 @@ export const serviceSolution = [
   "SAP consulting, training, and talent recruitment, providing valuable expertise for businesses worldwide.",
   "Extensive experience in diverse SAP modules, we collaborate globally to optimize project outcomes",
   "Our commitment is to deliver world-class SAP services, ensuring client satisfaction and success.",
-  "SAPOCOM strives to establish a strong organization and contribute to global SAP projects.",
+  "Sanocom strives to establish a strong organization and contribute to global SAP projects.",
 ];
 export const servicesData = [
   {
@@ -627,7 +627,7 @@ export const industryOilGasChallengeData = [
 ];
 export const industryOilGasSuccessData = [
   "Tailored oil and gas solutions for unique industry needs.",
-  "Optimization and improved profitability through Sapocom modules.",
+  "Optimization and improved profitability through Sanocom modules.",
   "Real-time data analysis for swift decision-making.",
   "Long-term success achieved with real-time insights.",
   "Industry-specific modules for profitable operations.",
@@ -636,7 +636,7 @@ export const industryOilGasFutureData = [
   {
     title: "Commodity Pricing Engine (CPE)",
     description:
-      "Sapocom’s solution helps oil and gas companies manage complex pricing models by considering various parameters.",
+      "Sanocom’s solution helps oil and gas companies manage complex pricing models by considering various parameters.",
     image: industryFutureOilGas1,
   },
   {
@@ -660,7 +660,7 @@ export const industryOilGasFutureData = [
   {
     title: "Retail Station Reconciliations",
     description:
-      "Observe a visible increase in profits with Sapocom’s solution for retail station reconciliations that helps oil and gas companies optimize their retail operations",
+      "Observe a visible increase in profits with Sanocom’s solution for retail station reconciliations that helps oil and gas companies optimize their retail operations",
     image: industryFutureOilGas5,
   },
   {
@@ -958,28 +958,28 @@ export const sidebarList = {
 
 export const ANNUAL_REPORT_LISTS = [
   {
-    name: 'SAPOCOM Annual Return FY 2019-20',
-    path: '/assets/annual-returns/sapocom-annual-report-fy-2019-20.pdf',
+    name: 'Sanocom Annual Return FY 2019-20',
+    path: '/assets/annual-returns/sanocom-annual-report-fy-2019-20.pdf',
     year: '2019 - 2020'
   },
   {
-    name: 'SAPOCOM Annual Return FY 2020-21',
-    path: '/assets/annual-returns/sapocom-annual-report-fy-2020-21.pdf',
+    name: 'Sanocom Annual Return FY 2020-21',
+    path: '/assets/annual-returns/sanocom-annual-report-fy-2020-21.pdf',
     year: '2020 - 2021'
   },
   {
-    name: 'SAPOCOM Annual Return FY 2021-22',
-    path: '/assets/annual-returns/sapocom-annual-report-fy-2021-22.pdf',
+    name: 'Sanocom Annual Return FY 2021-22',
+    path: '/assets/annual-returns/sanocom-annual-report-fy-2021-22.pdf',
     year: '2021 - 2022'
   },
   {
-    name: 'SAPOCOM Annual Return FY 2022-23',
-    path: '/assets/annual-returns/sapocom-annual-report-fy-2022-23.pdf',
+    name: 'Sanocom Annual Return FY 2022-23',
+    path: '/assets/annual-returns/sanocom-annual-report-fy-2022-23.pdf',
     year: '2022 - 2023'
   },
   {
-    name: 'SAPOCOM Annual Return FY 2023-24',
-    path: '/assets/annual-returns/sapocom-annual-report-fy-2023-24.pdf',
+    name: 'Sanocom Annual Return FY 2023-24',
+    path: '/assets/annual-returns/sanocom-annual-report-fy-2023-24.pdf',
     year: '2023 - 2024'
   },
 ]

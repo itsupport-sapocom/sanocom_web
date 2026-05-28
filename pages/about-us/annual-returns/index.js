@@ -8,10 +8,10 @@ import AnnualReportCard from '@/components/AnnualReportCard';
 function AnnualReport() {
   return (
     <>
-      <SetHeaders title="Annual Returns | Sapocom" /> 
+      <SetHeaders title="Annual Returns | Sanocom" />
       <HeaderBanner heading='Annual Returns' para='' bgImg={bgBanner} btnText='' />
 
-            <div className="w-full py-20 p-4" id="openings">
+      <div className="w-full py-20 p-4" id="openings">
         <div className="max-w-1200 mx-auto">
           <h1 className="mb-8 text-center text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-primary to-secondary">
             Annual Returns

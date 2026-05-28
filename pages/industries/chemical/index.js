@@ -23,7 +23,7 @@ import { industryClients, industryChemicalFutureData, industryChemicalSuccessDat
 export default function Chemical() {
   return (
     <>
-      <SetHeaders title='Chemical Industry | Sapocom' />
+      <SetHeaders title='Chemical Industry | Sanocom' />
       <HeaderBanner heading='Chemical Industry Solutions: USA | UAE | UK' para='Unique integrated software for the chemical industry to accelerate the adoption of a sustainable energy mix' bgImg={bgBanner} />
 
       <AboutIndustry
@@ -75,7 +75,7 @@ export default function Chemical() {
       <CtaBanner />
 
       <ClientReviews
-        message='We successfully went live in January 2022 with key functionalities which is  Commodity Pricing Engine &Global Trade Management. SAPOCOM played a critical role across configuration, development, testing, and defect resolution. Their strong expertise in commodity Management ensured a smooth and efficient implementation. The team demonstrated exceptional responsiveness and commitment throughout the project lifecycle. We look forward to continued collaboration ahead.'
+        message='We successfully went live in January 2022 with key functionalities which is  Commodity Pricing Engine &Global Trade Management. Sanocom played a critical role across configuration, development, testing, and defect resolution. Their strong expertise in commodity Management ensured a smooth and efficient implementation. The team demonstrated exceptional responsiveness and commitment throughout the project lifecycle. We look forward to continued collaboration ahead.'
         name='Vladimir Soloviev'
         position='Executive Director at PWC'
         image={clientImage}

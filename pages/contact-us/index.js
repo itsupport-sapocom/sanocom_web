@@ -66,7 +66,7 @@ function ContactUs() {
 
   return (
     <>
-      <SetHeaders title='Contact SAPOCOM | Talk to Our SAP Experts' description='Get in touch with SAPOCOM for SAP consulting, implementation, and support services across supply chain and logistics-driven industries.' keywords='SAP Consulting, Contact SAPOCOM' canonicalRoute='/contact-us' image='https://sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcontact-address.a46f9c77.png&w=1920&q=75' />
+      <SetHeaders title='Contact Sanocom | Talk to Our SAP Experts' description='Get in touch with Sanocom for SAP consulting, implementation, and support services across supply chain and logistics-driven industries.' keywords='SAP Consulting, Contact Sanocom' canonicalRoute='/contact-us' image='https://sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcontact-address.a46f9c77.png&w=1920&q=75' />
       {/* Contact Form */}
       <section className='w-full p-4 md:py-8 bg-gradient-to-r from-secondary to-third text-white' >
         <div className='max-w-1200 mx-auto grid md:grid-cols-[1fr_1fr] grid-cols-1 gap-8'>
@@ -142,7 +142,7 @@ function ContactUs() {
                     <p>contact@sapocomglobal.com</p>
                   </div>
                   <div className=' flex '>
-                    <a href='https://www.linkedin.com/company/sapocom/' target='_blank' rel="noopener noreferrer" className='w-9 h-9 bg-secondary rounded-full p-2 mr-2 grid place-items-center hover:bg-primary' aria-label="linked in">
+                    <a href='https://www.linkedin.com/company/sanocom/' target='_blank' rel="noopener noreferrer" className='w-9 h-9 bg-secondary rounded-full p-2 mr-2 grid place-items-center hover:bg-primary' aria-label="linked in">
                       <Image alt='linkedIn_logo' src={require('../../assets/images/icons/linked-in.svg')} />
                     </a>
                   </div>

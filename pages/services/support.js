@@ -42,7 +42,7 @@ function SupportPage() {
       answer: "As SAP Support Partners, we provide end-to-end services including system monitoring, bug fixes, security patches, performance tuning, and 24/7 technical helpdesk support tailored to your region's time zone."
     },
     {
-      question: "Does Sapocom Global support businesses in the UAE and UK?",
+      question: "Does Sanocom Global support businesses in the UAE and UK?",
       answer: "Yes. We offer localized SAP support across the UAE and UK, ensuring compliance with local regulations and providing support during standard business hours in London and Dubai, as well as the USA."
     },
     {
@@ -51,7 +51,7 @@ function SupportPage() {
     },
     {
       question: "What Are SAP Support Partners?",
-      answer: "SAP Support Partners are certified organizations recognized by SAP for providing expert maintenance, troubleshooting, and optimization of SAP systems. They extend your team's capabilities, ensuring seamless operations and maximizing ROI on SAP investments. Sapocom Global acts as a trusted SAP Support Partner, delivering reliable services through their support page."
+      answer: "SAP Support Partners are certified organizations recognized by SAP for providing expert maintenance, troubleshooting, and optimization of SAP systems. They extend your team's capabilities, ensuring seamless operations and maximizing ROI on SAP investments. Sanocom Global acts as a trusted SAP Support Partner, delivering reliable services through their support page."
     },
     {
       question: "Benefits of Choosing SAP Support Partners",
@@ -59,19 +59,19 @@ function SupportPage() {
     },
     {
       question: "How Do SAP Support Partners Ensure System Reliability?",
-      answer: "SAP Support Partners deliver proactive monitoring, rapid issue resolution, and timely updates to prevent outages and maintain performance. Their certified teams follow SAP best practices for continuous maintenance and scalability. Sapocom Global emphasizes this for uninterrupted SAP operations."
+      answer: "SAP Support Partners deliver proactive monitoring, rapid issue resolution, and timely updates to prevent outages and maintain performance. Their certified teams follow SAP best practices for continuous maintenance and scalability. Sanocom Global emphasizes this for uninterrupted SAP operations."
     },
     {
       question: "What Services Do SAP Support Partners Provide?",
-      answer: "Services include strategic consulting, system integration, post-implementation support, and customized training from evaluation to optimization. They handle complex deployments and ensure compliance with evolving SAP standards. Sapocom Global offers these comprehensive services tailored to client needs."
+      answer: "Services include strategic consulting, system integration, post-implementation support, and customized training from evaluation to optimization. They handle complex deployments and ensure compliance with evolving SAP standards. Sanocom Global offers these comprehensive services tailored to client needs."
     },
     {
-      question: "Why Select Sapocom Global as an SAP Support Partner?",
-      answer: "Sapocom Global stands out with industry-specific SAP expertise, including oil & gas solutions, and proven support for seamless digital transformation. Clients benefit from cost savings, enhanced efficiency, and personalized ongoing assistance. Their support services drive business continuity and growth."
+      question: "Why Select Sanocom Global as an SAP Support Partner?",
+      answer: "Sanocom Global stands out with industry-specific SAP expertise, including oil & gas solutions, and proven support for seamless digital transformation. Clients benefit from cost savings, enhanced efficiency, and personalized ongoing assistance. Their support services drive business continuity and growth."
     },
     {
       question: "How to Become or Work with SAP Support Partners?",
-      answer: "SAP Support Partners join via the PartnerEdge program, meeting rigorous training and performance benchmarks for certification. Businesses should evaluate partners based on expertise, track record, and alignment with goals for optimal results. Contact Sapocom Global for partnership or support collaboration."
+      answer: "SAP Support Partners join via the PartnerEdge program, meeting rigorous training and performance benchmarks for certification. Businesses should evaluate partners based on expertise, track record, and alignment with goals for optimal results. Contact Sanocom Global for partnership or support collaboration."
     }
   ];
 
@@ -89,7 +89,7 @@ function SupportPage() {
       },
       {
         "@type": "Question",
-        "name": "Does Sapocom Global support businesses in the UAE and UK?",
+        "name": "Does Sanocom Global support businesses in the UAE and UK?",
         "acceptedAnswer": {
           "@type": "Answer",
           "text": "Yes. We offer localized SAP support across the UAE and UK, ensuring compliance with local regulations and providing support during standard business hours in London and Dubai, as well as the USA."
@@ -112,7 +112,7 @@ function SupportPage() {
     "serviceType": "SAP Support Services",
     "provider": {
       "@type": "Organization",
-      "name": "Sapocom Global",
+      "name": "Sanocom Global",
       "url": "https://sapocomglobal.com"
     },
     "areaServed": [
@@ -144,16 +144,16 @@ function SupportPage() {
     <>
       <SetHeaders
         title="Trusted SAP Support Partners | Global Services in USA, UAE & UK"
-        description="Looking for reliable SAP Support Partners? Sapocom Global provides 24/7 managed SAP services, maintenance, and optimization across the USA, UAE, and UK. Expert solutions to keep your business running smoothly."
+        description="Looking for reliable SAP Support Partners? Sanocom Global provides 24/7 managed SAP services, maintenance, and optimization across the USA, UAE, and UK. Expert solutions to keep your business running smoothly."
         keywords="SAP Support Partners, SAP Support Services, Managed SAP Services, SAP Maintenance, SAP Technical Support, 24/7 SAP Support"
         canonicalRoute="/services/support"
-        image="https://www.sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fabout-sapocom-section.381abdb9.png&w=640&q=75"
+        image="https://www.sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fabout-sanocom-section.381abdb9.png&w=640&q=75"
         schema={[faqSchema, serviceSchema]}
       />
       {/* Header Banner */}
       <HeaderBanner
         heading="Global SAP Support Partners: Empowering Businesses in USA, UAE, and UK"
-        para="As premier SAP Support Partners, Sapocom Global offers a bridge between complex technical landscapes and seamless business operations. Whether you are scaling in the USA, optimizing in the UAE, or maintaining infrastructure in the UK, our certified experts provide the proactive monitoring and dedicated support your enterprise deserves."
+        para="As premier SAP Support Partners, Sanocom Global offers a bridge between complex technical landscapes and seamless business operations. Whether you are scaling in the USA, optimizing in the UAE, or maintaining infrastructure in the UK, our certified experts provide the proactive monitoring and dedicated support your enterprise deserves."
         btnText={null}
       />
       {/* Implementation Approach */}

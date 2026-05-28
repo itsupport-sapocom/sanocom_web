@@ -47,7 +47,7 @@ export default function Events() {
   };
   return (
     <>
-      <SetHeaders title="Our Culture | Sapocom" />
+      <SetHeaders title="Our Culture | Sanocom" />
       <BannerWithClickHandler
         heading="Discover What's Happening"
         para="Stay updated and be part of the excitement ahead!"
@@ -64,7 +64,7 @@ export default function Events() {
               Our Culture
             </h1>
             <p className="text-left text-base mb-8 text-black ">
-              SAPOCOM is committed to cultivating a professional yet supportive
+              Sanocom is committed to cultivating a professional yet supportive
               work environment, emphasizing mutual respect and employee
               well-being. By fostering strong relationships beyond typical
               office interactions, the company aims to enhance morale,
@@ -75,7 +75,7 @@ export default function Events() {
               Fun @ Work
             </h2>
             <p className="text-left text-base mb-2 text-black ">
-              Achieve, Have Fun, and Celebrate is a core principle at SAPOCOM, guiding our approach to fostering a vibrant workplace culture. To uphold this commitment, we:
+              Achieve, Have Fun, and Celebrate is a core principle at Sanocom, guiding our approach to fostering a vibrant workplace culture. To uphold this commitment, we:
             </p>
 
             <ul className="my-2 pl-4">
@@ -83,18 +83,18 @@ export default function Events() {
                 We prioritize building strong relationships among team members, creating a supportive and collaborative work environment.
               </li>
               <li className='list-disc'>
-                SAPOCOM encourages its employees to maintain a healthy balance between work and personal life, revitalizing them to perform at their best.
+                Sanocom encourages its employees to maintain a healthy balance between work and personal life, revitalizing them to perform at their best.
               </li>
               <li className='list-disc'>
                 As an organization, we embrace creativity as a cornerstone of innovation, empowering employees to think outside the box and find resourceful solutions.
               </li>
               <li className='list-disc'>
                 We recognize and celebrate both professional milestones and personal accomplishments, fostering a culture of appreciation and acknowledgment.
-              </li>           
+              </li>
               <li className='list-disc'>
                 We incentivize positive behaviour and successes, reinforcing our values and promoting a culture of continuous improvement and excellence.
-              </li>           
-              
+              </li>
+
             </ul>
 
             <p className="text-left text-base mb-8 text-black ">
@@ -106,7 +106,7 @@ export default function Events() {
               Environment
             </h2>
             <p className="text-left text-base mb-2 text-black ">
-              Since 2017, SAPOCOM has thrived on the dedication of individuals
+              Since 2017, Sanocom has thrived on the dedication of individuals
               who dared to dream the impossible. With unwavering support, our
               employees have propelled us to new heights, pushing boundaries and
               achieving remarkable success. Together, we continue to innovate

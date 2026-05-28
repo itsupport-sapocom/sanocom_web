@@ -36,7 +36,7 @@ export default function Careers() {
 
   return (
     <>
-      <SetHeaders title="Careers | Sapocom" />
+      <SetHeaders title="Careers | Sanocom" />
       {/* Banner */}
       <BannerWithClickHandler
         heading="Join Our Talented Team"
@@ -114,7 +114,7 @@ export default function Careers() {
             </h1>
             <p className="text-left text-base mb-2 text-black ">
               Welcome to our global career hub, where diverse talents converge
-              to shape the future. At SAPOCOM, we celebrate the richness of
+              to shape the future. At Sanocom, we celebrate the richness of
               cultures and perspectives that make up our worldwide team. As you
               navigate through our career opportunities, envision joining a
               dynamic environment that spans continents, embraces diversity, and
@@ -131,7 +131,7 @@ export default function Careers() {
             <p className="text-left text-base text-black ">
               Explore the opportunities, discover your potential, and become
               part of a cosmopolitan community that&apos;s shaping the future at
-              SAPOCOM
+              Sanocom
             </p>
           </div>
           <Image src={img2} alt={"careers-img-2"} className="w-[350px]" />

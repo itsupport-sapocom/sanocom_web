@@ -28,8 +28,8 @@ function AboutUs() {
   return (
     <>
       <SetHeaders
-        title="SAP Commodity Trading & Risk Management Solutions | SAPOCOM Tech"
-        description="Expert SAP Commodity Trading & Risk Management solutions from your trusted SAP partner. Minimize risk, maximize returns. Get a free consultation from SAPOCOM today!"
+        title="SAP Commodity Trading & Risk Management Solutions | Sanocom Tech"
+        description="Expert SAP Commodity Trading & Risk Management solutions from your trusted SAP partner. Minimize risk, maximize returns. Get a free consultation from Sanocom today!"
         canonicalRoute="/about-us"
         keywords="SAP Commodity Trading & Risk Management"
         image="https://sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcompany.79129ab0.png&w=640&q=75"
@@ -37,7 +37,7 @@ function AboutUs() {
       {/* Header Banner */}
       <BannerWithImage
         title="about"
-        heading="Your Trusted SAP Partner for SAP Commodity Trading & Risk Management | SAPOCOM Tech"
+        heading="Your Trusted SAP Partner for SAP Commodity Trading & Risk Management | Sanocom Tech"
         para="We are committed to helping businesses thrive with our innovative solutions and expert guidance. Our team of SAP professionals is dedicated to delivering top-notch services that drive growth and success for our clients."
         img={headerImage}
         bgImg={aboutBanner}
@@ -59,14 +59,14 @@ function AboutUs() {
               data-aos-delay="200"
               className="text-3xl font-semibold mb-2"
             >
-              SAPOCOM Technologies
+              Sanocom Technologies
             </h2>
             <p
               data-aos="fade-up"
               data-aos-delay="300"
               className="mb-6 opacity-70"
             >
-              SAPOCOM acknowledges the potency of SAP technology and its impact
+              Sanocom acknowledges the potency of SAP technology and its impact
               on businesses. We are enthusiastic about delivering bespoke
               solutions that meet our client&apos;s requirements. Our team of
               professionals is available to provide unwavering support
@@ -182,7 +182,7 @@ function AboutUs() {
                 />
                 <p className="mb-2 text-xl font-semibold">Anurag Goel</p>
                 <p className="text-base opacity-70">
-                  Founder & CEO, SAPOCOM Technologies
+                  Founder & CEO, Sanocom Technologies
                 </p>
               </div>
               <div>
@@ -193,14 +193,14 @@ function AboutUs() {
                 />
                 <p className="mb-2 text-xl font-semibold">Dr. Tribhuvan Raj</p>
                 <p className="text-base opacity-70">
-                  Co-Founder & Director, SAPOCOM Technologies
+                  Co-Founder & Director, Sanocom Technologies
                 </p>
               </div>
             </div>
             {/* Message side */}
             <div className="text-base">
               <p>{`We commit to providing our customers best SAP solutions; our solutions will showcase the industry's best practices, easy-to-use solutions and use the latest technology trends. Along with customer focus, we value our employees and are committed to providing the best in class facilities, equipping them with the latest technology and bringing the best out of each team member. Whether it's software development, training programs, or measurable IT governance, we strive to provide world-class deliverables that drive growth and success for our clients. `}</p>
-              <p>{`We understand the power of SAP technology and the impact it can have on businesses. That is why our team of experts is dedicated to delivering customized solutions that meet the unique needs of our clients.  Whether it's software development, training programs, or measurable IT governance, we strive to provide world-class deliverables that drive growth and success for our clients. The team is the backbone of any successful company, and at SAPOCOM, we are proud of the talented professionals who make up our team. So, we understand that this is different from usual. They have worked tirelessly to adapt our logistics, transportation, supply chain, purchasing, and third-party seller processes to prioritize stocking and delivering essential items to those who need them most. We provide vital services to people everywhere, especially those most vulnerable.`}</p>
+              <p>{`We understand the power of SAP technology and the impact it can have on businesses. That is why our team of experts is dedicated to delivering customized solutions that meet the unique needs of our clients.  Whether it's software development, training programs, or measurable IT governance, we strive to provide world-class deliverables that drive growth and success for our clients. The team is the backbone of any successful company, and at Sanocom, we are proud of the talented professionals who make up our team. So, we understand that this is different from usual. They have worked tirelessly to adapt our logistics, transportation, supply chain, purchasing, and third-party seller processes to prioritize stocking and delivering essential items to those who need them most. We provide vital services to people everywhere, especially those most vulnerable.`}</p>
             </div>
           </div>
         </div>
@@ -294,7 +294,7 @@ function AboutUs() {
               {/* Achievement and Year */}
               <div className="p-4 px-2 text-center flex flex-col justify-center items-center">
                 <p className="mb-3 font-semibold leading-tight">
-                  Sapocom was founded
+                  Sanocom was founded
                 </p>
                 <p className="rounded-md p-2 bg-primary mx-auto text-white w-[100px]">
                   2017
@@ -519,7 +519,7 @@ function AboutUs() {
         </div>
       </section>
 
-      {/* Sapocom Stats and Details */}
+      {/* Sanocom Stats and Details */}
       <section className="w-full p-4 py-8 md:py-16 bg-grey">
         <div className="max-w-1000 mx-auto flex gap-4 flex-wrap items-center ">
           <div className="md:flex-1">

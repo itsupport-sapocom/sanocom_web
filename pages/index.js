@@ -17,7 +17,7 @@ import {
 } from '@/configs/config';
 
 // image
-import aboutSapocomSection from '@/assets/images/home/about-sapocom-section.png';
+import aboutSapocomSection from '@/assets/images/home/about-sanocom-section.png';
 import mapWithFlag from '@/assets/images/home/map-with-flags.png';
 import mapBg from '@/assets/images/home/map-bg.png';
 
@@ -32,11 +32,11 @@ export default function Home() {
     <>
       {/* Header Configs */}
       <SetHeaders
-        title="SAP Consulting by Sapocom | Smarter, Faster Business Growth"
-        description="Get expert SAP consulting that improves efficiency and drives results. Sapocom helps you streamline operations and scale with confidence. Contact us today."
+        title="SAP Consulting by Sanocom | Smarter, Faster Business Growth"
+        description="Get expert SAP consulting that improves efficiency and drives results. Sanocom helps you streamline operations and scale with confidence. Contact us today."
         keywords="SAP Consulting"
         canonicalRoute="/"
-        image="https://sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fabout-sapocom-section.381abdb9.png&w=640&q=75"
+        image="https://sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fabout-sanocom-section.381abdb9.png&w=640&q=75"
       />
 
       {/* Header Banner */}
@@ -128,7 +128,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* About Sapocom */}
+      {/* About Sanocom */}
       <section className="w-full p-4 md:py-8 bg-grey">
         <div className="max-w-1200 mx-auto flex gap-10 flex-wrap ">
           <div className="flex-1">
@@ -144,7 +144,7 @@ export default function Home() {
               data-aos-delay="200"
               className="text-3xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-primary from-30%  to-secondary to-90% mb-4"
             >
-              SAPOCOM – Expert SAP Consulting for Smarter Business Operations
+              Sanocom – Expert SAP Consulting for Smarter Business Operations
             </h1>
             <p
               data-aos="fade-up"
@@ -155,7 +155,7 @@ export default function Home() {
               through SAP digital transformation
             </p>
             <p data-aos="fade-up" className="text-black mb-6">
-              Sapocom is an emerging SAP consulting, training, and talent
+              Sanocom is an emerging SAP consulting, training, and talent
               recruitment industry leader. The gateway to unleashing the
               boundless potential of your business through the captivating realm
               of SAP digital transformation!{' '}
@@ -630,7 +630,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* About Sapocom */}
+      {/* About Sanocom */}
       <section className="w-full p-4 md:py-8 bg-grey">
         <div className="max-w-1200 mx-auto flex gap-4 flex-wrap ">
           <div className="md:flex-1">
@@ -647,7 +647,7 @@ export default function Home() {
               className="text-3xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-primary from-30%  to-secondary to-90% mb-4 max-w-[550px]"
             >
               With our strong global presence and unwavering commitment to
-              delivering growth-oriented and efficient SAP solutions, SAPOCOM
+              delivering growth-oriented and efficient SAP solutions, Sanocom
               enables businesses worldwide to thrive.
             </h2>
             <p

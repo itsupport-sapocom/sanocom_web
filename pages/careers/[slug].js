@@ -33,7 +33,7 @@ function MyPage() {
   return (
     <>
       <Loader />
-      <SetHeaders title={`${jobData?.title} | Sapocom`} />
+      <SetHeaders title={`${jobData?.title} | Sanocom`} />
 
       {/* Job info */}
       <JobCard jobData={jobData} />

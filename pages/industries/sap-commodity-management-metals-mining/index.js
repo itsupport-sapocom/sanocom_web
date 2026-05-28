@@ -32,32 +32,32 @@ export default function MetalMining() {
             answer: "The Commodity Pricing Engine (CPE) automates complex pricing based on market quotes (like LME or COMEX). It uses a specific Commodity Pricing Formula to calculate values based on purity, weight, and market volatility in real-time."
         },
         {
-            question: "Does Sapocom Global provide SAP CTRM support in the UAE and USA?",
-            answer: "Yes, Sapocom Global provides specialized SAP CTRM and Commodity Management consulting across the USA, UAE, and UK, focusing on digital transformation for global metals and mining enterprises."
+            question: "Does Sanocom Global provide SAP CTRM support in the UAE and USA?",
+            answer: "Yes, Sanocom Global provides specialized SAP CTRM and Commodity Management consulting across the USA, UAE, and UK, focusing on digital transformation for global metals and mining enterprises."
         },
         {
             question: "What is SAP Commodity Management?",
-            answer: "SAP Commodity Management streamlines trading, risk management, and logistics for metal and mining industries. It unifies processes like procurement, sales, and inventory on a single platform, reducing errors and enhancing supply chain visibility. Sapocom Global tailors it for mining operations to boost efficiency and profitability."
+            answer: "SAP Commodity Management streamlines trading, risk management, and logistics for metal and mining industries. It unifies processes like procurement, sales, and inventory on a single platform, reducing errors and enhancing supply chain visibility. Sanocom Global tailors it for mining operations to boost efficiency and profitability."
         },
         {
             question: "How does SAP CTRM benefit the metal and mining sector?",
-            answer: "SAP Commodity Trading and Risk Management (CTRM) handles complex trades, contracts, and market volatility with real-time analytics and compliance tools. It supports deal capture, position management, and hedging for metals like iron ore and copper. Mining firms using Sapocom's expertise gain optimized trading cycles and reduced risks."
+            answer: "SAP Commodity Trading and Risk Management (CTRM) handles complex trades, contracts, and market volatility with real-time analytics and compliance tools. It supports deal capture, position management, and hedging for metals like iron ore and copper. Mining firms using Sanocom's expertise gain optimized trading cycles and reduced risks."
         },
         {
             question: "What is the Commodity Pricing Engine in SAP?",
-            answer: "The Commodity Pricing Engine (CPE) automates complex pricing using business rules, quality parameters, assays, and market variables. It calculates accurate prices for commodities efficiently, integrating with SAP ERP for seamless invoicing. Sapocom implements CPE to handle mining-specific pricing challenges effectively."
+            answer: "The Commodity Pricing Engine (CPE) automates complex pricing using business rules, quality parameters, assays, and market variables. It calculates accurate prices for commodities efficiently, integrating with SAP ERP for seamless invoicing. Sanocom implements CPE to handle mining-specific pricing challenges effectively."
         },
         {
             question: "Key Features of SAP Commodity Management for Mining",
-            answer: "Core features include supply chain planning, contract management, logistics execution, and risk analytics tailored for metals. It enables long-term forecasting, shipment tracking, and integration with mine operations. Sapocom Global delivers these for streamlined metal and mining workflows."
+            answer: "Core features include supply chain planning, contract management, logistics execution, and risk analytics tailored for metals. It enables long-term forecasting, shipment tracking, and integration with mine operations. Sanocom Global delivers these for streamlined metal and mining workflows."
         },
         {
             question: "How does SAP CTRM integrate with Commodity Pricing Engine?",
-            answer: "SAP CTRM links with CPE for dynamic pricing during trades, factoring in formulas for premiums, discounts, and assays. This ensures precise settlements and real-time adjustments to market fluctuations. Sapocom's solutions enhance this integration for mining profitability."
+            answer: "SAP CTRM links with CPE for dynamic pricing during trades, factoring in formulas for premiums, discounts, and assays. This ensures precise settlements and real-time adjustments to market fluctuations. Sanocom's solutions enhance this integration for mining profitability."
         },
         {
-            question: "Why partner with Sapocom Global for SAP Commodity Management?",
-            answer: "Sapocom specializes in SAP CTRM and CPE implementations for metal and mining, offering end-to-end services like global trade management and custom formulas. Clients achieve cost savings, compliance, and scalable operations through their industry-focused expertise."
+            question: "Why partner with Sanocom Global for SAP Commodity Management?",
+            answer: "Sanocom specializes in SAP CTRM and CPE implementations for metal and mining, offering end-to-end services like global trade management and custom formulas. Clients achieve cost savings, compliance, and scalable operations through their industry-focused expertise."
         }
     ];
 
@@ -83,10 +83,10 @@ export default function MetalMining() {
             },
             {
                 "@type": "Question",
-                "name": "Does Sapocom Global provide SAP CTRM support in the UAE and USA?",
+                "name": "Does Sanocom Global provide SAP CTRM support in the UAE and USA?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Yes, Sapocom Global provides specialized SAP CTRM and Commodity Management consulting across the USA, UAE, and UK, focusing on digital transformation for global metals and mining enterprises."
+                    "text": "Yes, Sanocom Global provides specialized SAP CTRM and Commodity Management consulting across the USA, UAE, and UK, focusing on digital transformation for global metals and mining enterprises."
                 }
             },
             {
@@ -94,7 +94,7 @@ export default function MetalMining() {
                 "name": "What is SAP Commodity Management?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "SAP Commodity Management streamlines trading, risk management, and logistics for metal and mining industries. It unifies processes like procurement, sales, and inventory on a single platform, reducing errors and enhancing supply chain visibility. Sapocom Global tailors it for mining operations to boost efficiency and profitability."
+                    "text": "SAP Commodity Management streamlines trading, risk management, and logistics for metal and mining industries. It unifies processes like procurement, sales, and inventory on a single platform, reducing errors and enhancing supply chain visibility. Sanocom Global tailors it for mining operations to boost efficiency and profitability."
                 }
             },
             {
@@ -102,7 +102,7 @@ export default function MetalMining() {
                 "name": "How does SAP CTRM benefit the metal and mining sector?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "SAP Commodity Trading and Risk Management (CTRM) handles complex trades, contracts, and market volatility with real-time analytics and compliance tools. It supports deal capture, position management, and hedging for metals like iron ore and copper. Mining firms using Sapocom's expertise gain optimized trading cycles and reduced risks."
+                    "text": "SAP Commodity Trading and Risk Management (CTRM) handles complex trades, contracts, and market volatility with real-time analytics and compliance tools. It supports deal capture, position management, and hedging for metals like iron ore and copper. Mining firms using Sanocom's expertise gain optimized trading cycles and reduced risks."
                 }
             },
             {
@@ -110,7 +110,7 @@ export default function MetalMining() {
                 "name": "What is the Commodity Pricing Engine in SAP?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "The Commodity Pricing Engine (CPE) automates complex pricing using business rules, quality parameters, assays, and market variables. It calculates accurate prices for commodities efficiently, integrating with SAP ERP for seamless invoicing. Sapocom implements CPE to handle mining-specific pricing challenges effectively."
+                    "text": "The Commodity Pricing Engine (CPE) automates complex pricing using business rules, quality parameters, assays, and market variables. It calculates accurate prices for commodities efficiently, integrating with SAP ERP for seamless invoicing. Sanocom implements CPE to handle mining-specific pricing challenges effectively."
                 }
             },
             {
@@ -118,7 +118,7 @@ export default function MetalMining() {
                 "name": "Key Features of SAP Commodity Management for Mining",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Core features include supply chain planning, contract management, logistics execution, and risk analytics tailored for metals. It enables long-term forecasting, shipment tracking, and integration with mine operations. Sapocom Global delivers these for streamlined metal and mining workflows."
+                    "text": "Core features include supply chain planning, contract management, logistics execution, and risk analytics tailored for metals. It enables long-term forecasting, shipment tracking, and integration with mine operations. Sanocom Global delivers these for streamlined metal and mining workflows."
                 }
             },
             {
@@ -126,15 +126,15 @@ export default function MetalMining() {
                 "name": "How does SAP CTRM integrate with Commodity Pricing Engine?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "SAP CTRM links with CPE for dynamic pricing during trades, factoring in formulas for premiums, discounts, and assays. This ensures precise settlements and real-time adjustments to market fluctuations. Sapocom's solutions enhance this integration for mining profitability."
+                    "text": "SAP CTRM links with CPE for dynamic pricing during trades, factoring in formulas for premiums, discounts, and assays. This ensures precise settlements and real-time adjustments to market fluctuations. Sanocom's solutions enhance this integration for mining profitability."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Why partner with Sapocom Global for SAP Commodity Management?",
+                "name": "Why partner with Sanocom Global for SAP Commodity Management?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Sapocom specializes in SAP CTRM and CPE implementations for metal and mining, offering end-to-end services like global trade management and custom formulas. Clients achieve cost savings, compliance, and scalable operations through their industry-focused expertise."
+                    "text": "Sanocom specializes in SAP CTRM and CPE implementations for metal and mining, offering end-to-end services like global trade management and custom formulas. Clients achieve cost savings, compliance, and scalable operations through their industry-focused expertise."
                 }
             }
         ]
@@ -147,7 +147,7 @@ export default function MetalMining() {
         "description": "Comprehensive SAP CTRM and Commodity Pricing Engine solutions for the global mining industry.",
         "provider": {
             "@type": "Organization",
-            "name": "Sapocom Global",
+            "name": "Sanocom Global",
             "url": "https://www.sapocomglobal.com"
         },
         "areaServed": [
@@ -172,7 +172,7 @@ export default function MetalMining() {
 
     return (
         <>
-            <SetHeaders title='SAP CTRM & Commodity Management for Metals | Sapocom Global' description='Master SAP Commodity Trading & Risk Management (CTRM). Optimize Metals & Mining with Commodity Pricing Engines (CPE) and formulas. Expertise for USA, UAE, & UK.' keywords='SAP Commodity Management, SAP Commodity Trading & Risk Management, SAP CTRM, Commodity Pricing Engine, Commodity Pricing Formula, SAP CPE, LME, COMEX' canonicalRoute='/industries/sap-commodity-management-metals-mining' image='https://www.sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FindustryAbout.0ac98855.png&w=750&q=75' schema={[faqSchema, serviceSchema]} />
+            <SetHeaders title='SAP CTRM & Commodity Management for Metals | Sanocom Global' description='Master SAP Commodity Trading & Risk Management (CTRM). Optimize Metals & Mining with Commodity Pricing Engines (CPE) and formulas. Expertise for USA, UAE, & UK.' keywords='SAP Commodity Management, SAP Commodity Trading & Risk Management, SAP CTRM, Commodity Pricing Engine, Commodity Pricing Formula, SAP CPE, LME, COMEX' canonicalRoute='/industries/sap-commodity-management-metals-mining' image='https://www.sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FindustryAbout.0ac98855.png&w=750&q=75' schema={[faqSchema, serviceSchema]} />
 
             <HeaderBanner heading='SAP Commodity Management for Metals and Mining: USA | UAE | UK' para='Ignite the Future of Metal and Mining with SAP CTRM: Unleash Enhanced Business Processes and Propel Productivity towards Sustainable Growth! ' bgImg={bgBanner} />
 
@@ -220,7 +220,7 @@ export default function MetalMining() {
             <CtaBanner />
 
             <ClientReviews
-                message='We successfully went live in January 2022 with key functionalities which is  Commodity Pricing Engine & Global Trade Management. SAPOCOM played a critical role across configuration, development, testing, and defect resolution. Their strong expertise in commodity Management ensured a smooth and efficient implementation. The team demonstrated exceptional responsiveness and commitment throughout the project lifecycle. We look forward to continued collaboration ahead.'
+                message='We successfully went live in January 2022 with key functionalities which is  Commodity Pricing Engine & Global Trade Management. Sanocom played a critical role across configuration, development, testing, and defect resolution. Their strong expertise in commodity Management ensured a smooth and efficient implementation. The team demonstrated exceptional responsiveness and commitment throughout the project lifecycle. We look forward to continued collaboration ahead.'
                 name='Vladimir Soloviev'
                 position='Executive Director at PWC'
                 image={clientImage}

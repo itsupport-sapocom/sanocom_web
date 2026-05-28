@@ -27,7 +27,7 @@ export default function AgricultureDealCapture() {
       answer: "Deal Capture is the process of recording the specific details of a commodity trade—including price, volume, delivery dates, and counterparties—into a centralized system to ensure accuracy and risk management."
     },
     {
-      question: "Does Sapocom support multi-currency deal capture for global markets?",
+      question: "Does Sanocom support multi-currency deal capture for global markets?",
       answer: "Yes. Our platform is built for global trade, allowing users in the USA, UAE, and UK to capture deals in multiple currencies with automated exchange rate integration."
     },
     {
@@ -50,7 +50,7 @@ export default function AgricultureDealCapture() {
       },
       {
         "@type": "Question",
-        "name": "Does Sapocom support multi-currency deal capture for global markets?",
+        "name": "Does Sanocom support multi-currency deal capture for global markets?",
         "acceptedAnswer": {
           "@type": "Answer",
           "text": "Yes. Our platform is built for global trade, allowing users in the USA, UAE, and UK to capture deals in multiple currencies with automated exchange rate integration."
@@ -73,7 +73,7 @@ export default function AgricultureDealCapture() {
     "serviceType": "Agricultural Deal Capture Software",
     "provider": {
       "@type": "Organization",
-      "name": "Sapocom Global",
+      "name": "Sanocom Global",
       "url": "https://sapocomglobal.com"
     },
     "areaServed": [
@@ -101,7 +101,7 @@ export default function AgricultureDealCapture() {
     <>
       <SetHeaders
         title='Agricultural Deal Capture Software | Global Trading in USA, UAE, UK'
-        description="Optimize your agri-trading with Sapocom's Deal Capture solution. Centralize trade entry, manage risk, and ensure compliance across the USA, UAE, and UK markets. Get a demo today!"
+        description="Optimize your agri-trading with Sanocom's Deal Capture solution. Centralize trade entry, manage risk, and ensure compliance across the USA, UAE, and UK markets. Get a demo today!"
         keywords='Deal Capture, Agricultural Deal Capture, Commodity Trading, Agricultural Trading Software, Agri-Trading, Multi-Currency Trading, Global Trade Management'
         canonicalRoute='/industries/agriculture/deal-capture'
         image='https://www.sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FindustryAbout.da7f652b.png&w=750&q=75'
@@ -117,7 +117,7 @@ export default function AgricultureDealCapture() {
       <AboutIndustry
         title='Overview'
         heading='Transform Your Agricultural Business With Our Cutting-Edge Solutions That Lead The Industry'
-        description="Are you in the agriculture industry and struggling to keep track of prices and logistics? Look no further than Sapocom's Agricultural Contract Management (ACM) module!"
+        description="Are you in the agriculture industry and struggling to keep track of prices and logistics? Look no further than Sanocom's Agricultural Contract Management (ACM) module!"
         image={industryAbout}
         keyPoints={['Automated data entry for faster deal processing', 'Connected truck, rail, marine, pipeline management', "Process monitoring across supply, production, inventory, and demand", 'Inclusion of crop details in the sales terms in grower contracts']}
       />
@@ -155,7 +155,7 @@ export default function AgricultureDealCapture() {
       <CtaBanner />
 
       <ClientReviews
-        message='We successfully went live in January 2022 with key functionalities which is  Commodity Pricing Engine &Global Trade Management. SAPOCOM played a critical role across configuration, development, testing, and defect resolution. Their strong expertise in commodity Management ensured a smooth and efficient implementation. The team demonstrated exceptional responsiveness and commitment throughout the project lifecycle. We look forward to continued collaboration ahead.'
+        message='We successfully went live in January 2022 with key functionalities which is  Commodity Pricing Engine &Global Trade Management. Sanocom played a critical role across configuration, development, testing, and defect resolution. Their strong expertise in commodity Management ensured a smooth and efficient implementation. The team demonstrated exceptional responsiveness and commitment throughout the project lifecycle. We look forward to continued collaboration ahead.'
         name='Vladimir Soloviev'
         position='Executive Director at PWC'
         image={clientImage}

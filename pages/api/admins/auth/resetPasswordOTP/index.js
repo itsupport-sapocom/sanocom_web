@@ -44,7 +44,7 @@ export default async function handler(req, res) {
     await transporter.sendMail({
       from: data.MAIL_EMAIL, // sender address
       to: user.email, // list of receivers
-      subject: `Sapocom User OTP Request!`, // Subject line
+      subject: `Sanocom User OTP Request!`, // Subject line
       html: `<h1>OTP: ${generatedOTP}</h1>`,
     });
 

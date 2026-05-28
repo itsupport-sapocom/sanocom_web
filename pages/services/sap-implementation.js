@@ -17,7 +17,7 @@ const ourImplementationApproach = [
       'We align the right approach, Agile, Waterfall, Hybrid, or Phased, based on your business goals.',
   },
   {
-    title: 'SAPOCOM Activate',
+    title: 'Sanocom Activate',
     description:
       'Our unique, results-driven methodology that ensures efficient delivery and lasting success.',
   },
@@ -47,7 +47,7 @@ const whyChooseUs = [
 function SapImplementationPage() {
   const implementationFAQs = [
     {
-      question: "Why should we choose Sapocom Global as our SAP Implementation Partners?",
+      question: "Why should we choose Sanocom Global as our SAP Implementation Partners?",
       answer: "We combine global expertise with local market insights in the USA, UAE, and UK. Our methodology focuses on minimizing downtime while maximizing ROI through customized SAP configurations."
     },
     {
@@ -62,48 +62,48 @@ function SapImplementationPage() {
       question: "What is SAP Implementation?",
       answer: (
         <p>
-          SAP Implementation involves deploying software to optimize finance and supply chain processes. Sapocom Global delivers customized services, incorporating{' '}
+          SAP Implementation involves deploying software to optimize finance and supply chain processes. Sanocom Global delivers customized services, incorporating{' '}
           <a href="/industries/sap-oil-gas-solutions" target="_blank" rel="noopener noreferrer">SAP commodity management</a> and the{' '}
-          <a href="/industries/sap-oil-gas-solutions" target="_blank" rel="noopener noreferrer">SAPOCOM Activate methodology</a> for faster results in the oil and gas industry.
+          <a href="/industries/sap-oil-gas-solutions" target="_blank" rel="noopener noreferrer">Sanocom Activate methodology</a> for faster results in the oil and gas industry.
         </p>
       )
     },
     {
-      question: "Why Choose Sapocom for SAP Implementation?",
+      question: "Why Choose Sanocom for SAP Implementation?",
       answer: (
         <p>
-          Sapocom specializes in{' '}
+          Sanocom specializes in{' '}
           <a href="/industries/sap-oil-gas-solutions" target="_blank" rel="noopener noreferrer">SAP IS-Oil & Gas</a>, integrating{' '}
           <a href="/industries/sap-oil-gas-solutions" target="_blank" rel="noopener noreferrer">SAP commodity trading & risk management</a> to handle market volatility. Their expert team ensures seamless configuration and training tailored to specific business goals.
         </p>
       )
     },
     {
-      question: "What Does the SAP Implementation Process at Sapocom Entail?",
+      question: "What Does the SAP Implementation Process at Sanocom Entail?",
       answer: (
         <p>
-          The process includes planning with defined goals, software configuration, rigorous testing, and user training for effective adoption. Sapocom uses flexible approaches like Agile, Waterfall, or their unique{' '}
-          <a href="/industries/sap-oil-gas-solutions" target="_blank" rel="noopener noreferrer">SAPOCOM Activate methodology</a> to minimize risks.
+          The process includes planning with defined goals, software configuration, rigorous testing, and user training for effective adoption. Sanocom uses flexible approaches like Agile, Waterfall, or their unique{' '}
+          <a href="/industries/sap-oil-gas-solutions" target="_blank" rel="noopener noreferrer">Sanocom Activate methodology</a> to minimize risks.
         </p>
       )
     },
     {
-      question: "What Are the Benefits of SAP Implementation with Sapocom?",
-      answer: "Businesses gain streamlined operations, enhanced efficiency, and long-term value through cost-effective, scalable SAP solutions. Sapocom's certified professionals provide quality assurance and post-go-live support for sustained success."
+      question: "What Are the Benefits of SAP Implementation with Sanocom?",
+      answer: "Businesses gain streamlined operations, enhanced efficiency, and long-term value through cost-effective, scalable SAP solutions. Sanocom's certified professionals provide quality assurance and post-go-live support for sustained success."
     },
     {
-      question: "How Does Sapocom Handle SAP Implementation for Oil & Gas?",
+      question: "How Does Sanocom Handle SAP Implementation for Oil & Gas?",
       answer: (
         <p>
-          Sapocom focuses on{' '}
+          Sanocom focuses on{' '}
           <a href="/industries/sap-oil-gas-solutions" target="_blank" rel="noopener noreferrer">SAP IS-Oil Downstream</a> modules like{' '}
           <a href="/industries/sap-oil-gas-solutions" target="_blank" rel="noopener noreferrer">SAP secondary distribution management</a> during Implementation, integrating features for downstream operations. This drives transformation with deep process knowledge and global expertise.
         </p>
       )
     },
     {
-      question: "What Support Follows Sapocom's SAP Implementation?",
-      answer: "Post-implementation, Sapocom offers ongoing support, data migration, upgrades, and rollouts to ensure optimal performance. Their comprehensive services include monitoring, troubleshooting, and enhancements aligned with evolving needs."
+      question: "What Support Follows Sanocom's SAP Implementation?",
+      answer: "Post-implementation, Sanocom offers ongoing support, data migration, upgrades, and rollouts to ensure optimal performance. Their comprehensive services include monitoring, troubleshooting, and enhancements aligned with evolving needs."
     }
   ];
 
@@ -113,7 +113,7 @@ function SapImplementationPage() {
     "mainEntity": [
       {
         "@type": "Question",
-        "name": "Why should we choose Sapocom Global as our SAP Implementation Partners?",
+        "name": "Why should we choose Sanocom Global as our SAP Implementation Partners?",
         "acceptedAnswer": {
           "@type": "Answer",
           "text": "We combine global expertise with local market insights in the USA, UAE, and UK. Our methodology focuses on minimizing downtime while maximizing ROI through customized SAP configurations."
@@ -144,7 +144,7 @@ function SapImplementationPage() {
     "serviceType": "SAP Implementation",
     "provider": {
       "@type": "Organization",
-      "name": "Sapocom Global",
+      "name": "Sanocom Global",
       "url": "https://sapocomglobal.com"
     },
     "areaServed": [
@@ -179,20 +179,20 @@ function SapImplementationPage() {
         description="Expert SAP Implementation Partners providing end-to-end deployment services across the USA, UAE, and UK. Streamline your business with SAP-certified consultants. Get a quote today."
         keywords="SAP Implementation, SAP Implementation Partners, SAP Consulting, SAP ERP Implementation, SAP S/4HANA Implementation, SAP Certified Consultants"
         canonicalRoute="/services/sap-implementation"
-        image="https://sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fabout-sapocom-section.381abdb9.png&w=640&q=75"
+        image="https://sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fabout-sanocom-section.381abdb9.png&w=640&q=75"
         schema={[faqSchema, serviceSchema]}
       />
       {/* Header Banner */}
       <HeaderBanner
         heading="Enterprise SAP Implementation Services: USA | UAE | UK"
-        para="Drive digital transformation with Sapocom Global, your trusted SAP Implementation Partners. We specialize in delivering seamless, scalable, and industry-specific SAP Implementation services tailored for the unique market demands of the USA, UK, and Middle East. From initial roadmap planning to final go-live, our certified consultants ensure your ERP transition is efficient and risk-free."
+        para="Drive digital transformation with Sanocom Global, your trusted SAP Implementation Partners. We specialize in delivering seamless, scalable, and industry-specific SAP Implementation services tailored for the unique market demands of the USA, UK, and Middle East. From initial roadmap planning to final go-live, our certified consultants ensure your ERP transition is efficient and risk-free."
         bgImg={service}
         btnText={null}
       />
       {/* Implementation Approach */}
       <ServicesOurApproach
         title="Our Implementation APPROACH"
-        description="At SAPOCOM, we understand that every business is different. Different clients require different implementation methodologies, from Agile and Waterfall to Hybrid and Phased approaches. What makes us unique is our SAPOCOM Activate Methodology: a proven, highly successful framework tailored to deliver faster, smoother, and more reliable SAP implementations."
+        description="At Sanocom, we understand that every business is different. Different clients require different implementation methodologies, from Agile and Waterfall to Hybrid and Phased approaches. What makes us unique is our Sanocom Activate Methodology: a proven, highly successful framework tailored to deliver faster, smoother, and more reliable SAP implementations."
         approaches={ourImplementationApproach}
       />
 
@@ -211,7 +211,7 @@ function SapImplementationPage() {
             data-aos-delay="100"
             className="text-black opacity-70"
           >
-            Over the years, SAPOCOM has partnered with leading organizations
+            Over the years, Sanocom has partnered with leading organizations
             across the globe, delivering end-to-end SAP implementation services.
             Each project reflects our ability to adapt SAP solutions to unique
             industry needs.
@@ -402,7 +402,7 @@ function SapImplementationPage() {
       {/* CTA */}
       <ServicesCtaCard
         title="Partner with Us"
-        description="SAPOCOM continues to shape digital transformation journeys through successful SAP implementations. Connect with us to explore how we can empower your organization with the right SAP solutions."
+        description="Sanocom continues to shape digital transformation journeys through successful SAP implementations. Connect with us to explore how we can empower your organization with the right SAP solutions."
       />
     </>
   );

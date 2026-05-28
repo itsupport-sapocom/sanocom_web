@@ -11,7 +11,7 @@ function Footer() {
         {/* First Row */}
         <div className="p-2 max-md:col-span-2">
           <Image src={logo} width={80} height={80} className='mb-4 h-auto w-auto object-contain' alt='footer_logo' />
-          <p>SAPOCOM Technologies, an SAP based company to provide SAP solutions to be at top globally</p>
+          <p>Sanocom Technologies, an SAP based company to provide SAP solutions to be at top globally</p>
         </div>
         {/* Second Row */}
         <div className="p-2">
@@ -33,14 +33,14 @@ function Footer() {
         {/* Forth Row */}
         <div className=" p-2">
           <p className='text-primary uppercase mb-4 font-semibold'>Social</p>
-          <a target='_blank' rel='noopener noreferrer' href='https://www.linkedin.com/company/sapocom/' className='text-black mb-2 block transition-[transform] hover:text-primary  hover:translate-x-2'>LinkedIn</a>
+          <a target='_blank' rel='noopener noreferrer' href='https://www.linkedin.com/company/sanocom/' className='text-black mb-2 block transition-[transform] hover:text-primary  hover:translate-x-2'>LinkedIn</a>
         </div>
       </div>
       {/* Bottom Footer */}
       <div className="border-t p-4 flex justify-center items-center [550px]:gap-4 gap-2 max-[550px]:flex-col text-secondary">
-        <p >@ {new Date().getFullYear()} SAPOCOM Technologies. All rights reserved</p>
+        <p >@ {new Date().getFullYear()} Sanocom Technologies. All rights reserved</p>
         <div className=' flex '>
-          <a href='https://www.linkedin.com/company/sapocom/' target='_blank' rel="noopener noreferrer" className='w-9 h-9 bg-secondary rounded-full p-2 mr-2 grid place-items-center hover:bg-primary' aria-label="linked in">
+          <a href='https://www.linkedin.com/company/sanocom/' target='_blank' rel="noopener noreferrer" className='w-9 h-9 bg-secondary rounded-full p-2 mr-2 grid place-items-center hover:bg-primary' aria-label="linked in">
             <Image alt='linkedIn_logo' src={require('../assets/images/icons/linked-in.svg')} />
           </a>
         </div>

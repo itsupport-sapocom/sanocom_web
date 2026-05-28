@@ -40,11 +40,11 @@ const whyChooseUs = [
 function DataMigrationPage() {
   return (
     <>
-      <SetHeaders title={`Data Migration | Sapocom`} />
+      <SetHeaders title={`Data Migration | Sanocom`} />
       {/* Header Banner */}
       <HeaderBanner
         heading="Data Migration"
-        para="We understand that data is the backbone of your SAP deployment. At SAPOCOM, our Data Migration services are designed to move your critical business data securely, accurately, and in a controlled way so your transition to a new system is smooth, reliable, and meets industry-specific needs."
+        para="We understand that data is the backbone of your SAP deployment. At Sanocom, our Data Migration services are designed to move your critical business data securely, accurately, and in a controlled way so your transition to a new system is smooth, reliable, and meets industry-specific needs."
         bgImg={service}
         btnText={null}
       />
@@ -63,7 +63,7 @@ function DataMigrationPage() {
       {/* CTA */}
       <ServicesCtaCard
         title="Partner with Us"
-        description="SAPOCOM continues to shape digital transformation journeys through successful SAP implementations. Connect with us to explore how we can empower your organization with the right SAP solutions."
+        description="Sanocom continues to shape digital transformation journeys through successful SAP implementations. Connect with us to explore how we can empower your organization with the right SAP solutions."
       />
     </>
   );
