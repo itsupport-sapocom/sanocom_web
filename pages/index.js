@@ -17,7 +17,7 @@ import {
 } from '@/configs/config';
 
 // image
-import aboutSapocomSection from '@/assets/images/home/about-sanocom-section.png';
+import aboutSanocomSection from '@/assets/images/home/about-sanocom-section.png';
 import mapWithFlag from '@/assets/images/home/map-with-flags.png';
 import mapBg from '@/assets/images/home/map-bg.png';
 
@@ -36,7 +36,7 @@ export default function Home() {
         description="Get expert SAP consulting that improves efficiency and drives results. Sanocom helps you streamline operations and scale with confidence. Contact us today."
         keywords="SAP Consulting"
         canonicalRoute="/"
-        image="https://sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fabout-sanocom-section.381abdb9.png&w=640&q=75"
+        image="https://sanocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fabout-sanocom-section.381abdb9.png&w=640&q=75"
       />
 
       {/* Header Banner */}
@@ -213,7 +213,7 @@ export default function Home() {
             className="max-md:flex max-md:text-center max-md:w-full max-md:justify-center"
           >
             <Image
-              src={aboutSapocomSection}
+              src={aboutSanocomSection}
               width={300}
               alt="about_sacopom_image"
             />

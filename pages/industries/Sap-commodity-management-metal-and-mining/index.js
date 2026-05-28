@@ -1,7 +1,7 @@
 import React from 'react'
 import SetHeaders from '@/layouts/SetHeaders'
 import { HeaderBanner } from '@/components/banners/banners'
-import WhyChooseSapocom from '@/components/WhyChooseSapocom';
+import WhyChooseSanocom from '@/components/WhyChooseSanocom';
 import { CtaBanner } from '@/components/banners/ctaBanners';
 import AboutIndustry from '@/components/AboutIndustry';
 import IndustryFuture from '@/components/IndustryFuture';
@@ -74,7 +74,7 @@ export default function MetalMining() {
         "@type": "Service",
         "name": "SAP Commodity Management for Metals & Mining",
         "description": "Comprehensive SAP CTRM and Commodity Pricing Engine solutions for the global mining industry.",
-        "provider": { "@type": "Organization", "name": "Sanocom Global", "url": "https://www.sapocomglobal.com" },
+        "provider": { "@type": "Organization", "name": "Sanocom Global", "url": "https://www.sanocomglobal.com" },
         "areaServed": [
             { "@type": "Country", "name": "USA" },
             { "@type": "Country", "name": "UAE" },
@@ -89,7 +89,7 @@ export default function MetalMining() {
                 description='Master SAP Commodity Trading & Risk Management (CTRM). Optimize Metals & Mining with Commodity Pricing Engines (CPE) and formulas. Expertise for USA, UAE, & UK.'
                 keywords='SAP Commodity Management, SAP Commodity Trading & Risk Management, SAP CTRM, Commodity Pricing Engine, Commodity Pricing Formula, SAP CPE, LME, COMEX'
                 canonicalRoute='/industries/Sap-commodity-management-metal-and-mining'
-                image='https://www.sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FindustryAbout.0ac98855.png&w=750&q=75'
+                image='https://www.sanocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FindustryAbout.0ac98855.png&w=750&q=75'
                 schema={[faqSchema, serviceSchema]}
             />
 
@@ -129,7 +129,7 @@ export default function MetalMining() {
                 clientData={industryClients}
             />
 
-            <WhyChooseSapocom />
+            <WhyChooseSanocom />
 
             <FAQ faqs={metalMiningFAQs} title="SAP Metal & Mining Solutions - FAQs" />
 

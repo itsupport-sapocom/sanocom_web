@@ -25,5 +25,5 @@ Check out [Sanocom Deployment Link](https://sanocom.vercel.app) for Layout.
 2. Install the package using command: yarn install
 3. To run the project use command: yarn run dev
 
-### For Build run the command: yarn run build"# sapocom_website_seo_access" 
+### For Build run the command: yarn run build"# sanocom_website_seo_access" 
 "# sanocom_web" 

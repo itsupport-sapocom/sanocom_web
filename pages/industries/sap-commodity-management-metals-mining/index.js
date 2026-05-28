@@ -1,7 +1,7 @@
 import React from 'react'
 import SetHeaders from '@/layouts/SetHeaders'
 import { HeaderBanner } from '@/components/banners/banners'
-import WhyChooseSapocom from '@/components/WhyChooseSapocom';
+import WhyChooseSanocom from '@/components/WhyChooseSanocom';
 import { CtaBanner } from '@/components/banners/ctaBanners';
 import AboutIndustry from '@/components/AboutIndustry';
 import IndustryFuture from '@/components/IndustryFuture';
@@ -148,7 +148,7 @@ export default function MetalMining() {
         "provider": {
             "@type": "Organization",
             "name": "Sanocom Global",
-            "url": "https://www.sapocomglobal.com"
+            "url": "https://www.sanocomglobal.com"
         },
         "areaServed": [
             { "@type": "Country", "name": "USA" },
@@ -172,7 +172,7 @@ export default function MetalMining() {
 
     return (
         <>
-            <SetHeaders title='SAP CTRM & Commodity Management for Metals | Sanocom Global' description='Master SAP Commodity Trading & Risk Management (CTRM). Optimize Metals & Mining with Commodity Pricing Engines (CPE) and formulas. Expertise for USA, UAE, & UK.' keywords='SAP Commodity Management, SAP Commodity Trading & Risk Management, SAP CTRM, Commodity Pricing Engine, Commodity Pricing Formula, SAP CPE, LME, COMEX' canonicalRoute='/industries/sap-commodity-management-metals-mining' image='https://www.sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FindustryAbout.0ac98855.png&w=750&q=75' schema={[faqSchema, serviceSchema]} />
+            <SetHeaders title='SAP CTRM & Commodity Management for Metals | Sanocom Global' description='Master SAP Commodity Trading & Risk Management (CTRM). Optimize Metals & Mining with Commodity Pricing Engines (CPE) and formulas. Expertise for USA, UAE, & UK.' keywords='SAP Commodity Management, SAP Commodity Trading & Risk Management, SAP CTRM, Commodity Pricing Engine, Commodity Pricing Formula, SAP CPE, LME, COMEX' canonicalRoute='/industries/sap-commodity-management-metals-mining' image='https://www.sanocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FindustryAbout.0ac98855.png&w=750&q=75' schema={[faqSchema, serviceSchema]} />
 
             <HeaderBanner heading='SAP Commodity Management for Metals and Mining: USA | UAE | UK' para='Ignite the Future of Metal and Mining with SAP CTRM: Unleash Enhanced Business Processes and Propel Productivity towards Sustainable Growth! ' bgImg={bgBanner} />
 
@@ -213,7 +213,7 @@ export default function MetalMining() {
                 clientData={industryClients}
             />
 
-            <WhyChooseSapocom />
+            <WhyChooseSanocom />
 
             <FAQ faqs={metalMiningFAQs} title="SAP Metal & Mining Solutions - FAQs" />
 

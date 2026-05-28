@@ -1,11 +1,11 @@
 import React from 'react'
 import Image from 'next/image'
-import whyChooseSapocomTime from '../assets/images/icons/why-choose-sanocom-time.svg'
-import whyChooseSapocomBulb from '../assets/images/icons/why-choose-sanocom-bulb.svg'
-import whyChooseSapocomStar from '../assets/images/icons/why-choose-sanocom-person-with-star.svg'
+import whyChooseSanocomTime from '../assets/images/icons/why-choose-sanocom-time.svg'
+import whyChooseSanocomBulb from '../assets/images/icons/why-choose-sanocom-bulb.svg'
+import whyChooseSanocomStar from '../assets/images/icons/why-choose-sanocom-person-with-star.svg'
 
 
-function WhyChooseSapocom() {
+function WhyChooseSanocom() {
     return (
         <>
             {/* Why Chose Us  */}
@@ -21,7 +21,7 @@ function WhyChooseSapocom() {
                         <div data-aos='fade-up' data-aos-delay={100} className={`
                                  bg-white rounded-md border-2 aspect-[2/1] w-[250px] p-4 hover:shadow-card relative`}>
                             <div className={`rounded-md aspect-[1/1] w-20 p-3 flex justify-center items-center absolute left-4 -top-[25%] bg-[#FF86CF]`}>
-                                <Image src={whyChooseSapocomBulb} alt='whyChooseSapocomBulb' />
+                                <Image src={whyChooseSanocomBulb} alt='whyChooseSanocomBulb' />
                             </div>
                             <p className='font-medium text-secondary text-xl pt-12'>Innovative and Future-Focused Solutions</p>
 
@@ -31,7 +31,7 @@ function WhyChooseSapocom() {
                         <div data-aos='fade-up' data-aos-delay={200} className={`
                                  bg-white rounded-md border-2 aspect-[2/1] w-[250px] p-4 hover:shadow-card relative`}>
                             <div className={`rounded-md aspect-[1/1] w-20 p-3 flex justify-center items-center absolute left-4 -top-[25%] bg-[#DDE8FE]`}>
-                                <Image src={whyChooseSapocomTime} alt='whyChooseSapocomTime' />
+                                <Image src={whyChooseSanocomTime} alt='whyChooseSanocomTime' />
                             </div>
                             <p className='font-medium text-secondary text-xl pt-12'>Years of Expertise with Experience</p>
                         </div>
@@ -40,7 +40,7 @@ function WhyChooseSapocom() {
                         <div data-aos='fade-up' data-aos-delay={300} className={`
                                  bg-white rounded-md border-2 aspect-[2/1] w-[250px] p-4 hover:shadow-card relative`}>
                             <div className={`rounded-md aspect-[1/1] w-20 p-3 flex justify-center items-center absolute left-4 -top-[25%] bg-[#C7FFB4]`}>
-                                <Image src={whyChooseSapocomStar} alt='whyChooseSapocomStar' />
+                                <Image src={whyChooseSanocomStar} alt='whyChooseSanocomStar' />
                             </div>
                             <p className='font-medium text-secondary text-xl pt-12'>Customer Centric Approach</p>
                         </div>
@@ -51,4 +51,4 @@ function WhyChooseSapocom() {
     )
 }
 
-export default WhyChooseSapocom
+export default WhyChooseSanocom

@@ -113,7 +113,7 @@ function SupportPage() {
     "provider": {
       "@type": "Organization",
       "name": "Sanocom Global",
-      "url": "https://sapocomglobal.com"
+      "url": "https://sanocomglobal.com"
     },
     "areaServed": [
       { "@type": "Country", "name": "USA" },
@@ -123,7 +123,7 @@ function SupportPage() {
     "description": "Professional SAP Support Partners providing managed services and technical assistance.",
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://sapocomglobal.com/services/support"
+      "@id": "https://sanocomglobal.com/services/support"
     },
     "hasOfferCatalog": {
       "@type": "OfferCatalog",
@@ -147,7 +147,7 @@ function SupportPage() {
         description="Looking for reliable SAP Support Partners? Sanocom Global provides 24/7 managed SAP services, maintenance, and optimization across the USA, UAE, and UK. Expert solutions to keep your business running smoothly."
         keywords="SAP Support Partners, SAP Support Services, Managed SAP Services, SAP Maintenance, SAP Technical Support, 24/7 SAP Support"
         canonicalRoute="/services/support"
-        image="https://www.sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fabout-sanocom-section.381abdb9.png&w=640&q=75"
+        image="https://www.sanocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fabout-sanocom-section.381abdb9.png&w=640&q=75"
         schema={[faqSchema, serviceSchema]}
       />
       {/* Header Banner */}

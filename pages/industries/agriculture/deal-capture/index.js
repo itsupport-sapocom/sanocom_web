@@ -1,7 +1,7 @@
 import React from 'react'
 import SetHeaders from '@/layouts/SetHeaders'
 import { HeaderBanner } from '@/components/banners/banners'
-import WhyChooseSapocom from '@/components/WhyChooseSapocom';
+import WhyChooseSanocom from '@/components/WhyChooseSanocom';
 import { CtaBanner } from '@/components/banners/ctaBanners';
 import AboutIndustry from '@/components/AboutIndustry';
 import IndustryFuture from '@/components/IndustryFuture';
@@ -74,7 +74,7 @@ export default function AgricultureDealCapture() {
     "provider": {
       "@type": "Organization",
       "name": "Sanocom Global",
-      "url": "https://sapocomglobal.com"
+      "url": "https://sanocomglobal.com"
     },
     "areaServed": [
       { "@type": "Country", "name": "USA" },
@@ -104,7 +104,7 @@ export default function AgricultureDealCapture() {
         description="Optimize your agri-trading with Sanocom's Deal Capture solution. Centralize trade entry, manage risk, and ensure compliance across the USA, UAE, and UK markets. Get a demo today!"
         keywords='Deal Capture, Agricultural Deal Capture, Commodity Trading, Agricultural Trading Software, Agri-Trading, Multi-Currency Trading, Global Trade Management'
         canonicalRoute='/industries/agriculture/deal-capture'
-        image='https://www.sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FindustryAbout.da7f652b.png&w=750&q=75'
+        image='https://www.sanocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FindustryAbout.da7f652b.png&w=750&q=75'
         schema={[faqSchema, serviceSchema]}
       />
 
@@ -148,7 +148,7 @@ export default function AgricultureDealCapture() {
         clientData={industryClients}
       />
 
-      <WhyChooseSapocom />
+      <WhyChooseSanocom />
 
       <FAQ faqs={dealCaptureFAQs} title="Agricultural Deal Capture - FAQs" />
 

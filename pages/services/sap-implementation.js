@@ -145,7 +145,7 @@ function SapImplementationPage() {
     "provider": {
       "@type": "Organization",
       "name": "Sanocom Global",
-      "url": "https://sapocomglobal.com"
+      "url": "https://sanocomglobal.com"
     },
     "areaServed": [
       { "@type": "Country", "name": "USA" },
@@ -155,7 +155,7 @@ function SapImplementationPage() {
     "description": "Specialized SAP Implementation services and consulting for global enterprises.",
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://sapocomglobal.com/services/sap-implementation"
+      "@id": "https://sanocomglobal.com/services/sap-implementation"
     },
     "hasOfferCatalog": {
       "@type": "OfferCatalog",
@@ -179,7 +179,7 @@ function SapImplementationPage() {
         description="Expert SAP Implementation Partners providing end-to-end deployment services across the USA, UAE, and UK. Streamline your business with SAP-certified consultants. Get a quote today."
         keywords="SAP Implementation, SAP Implementation Partners, SAP Consulting, SAP ERP Implementation, SAP S/4HANA Implementation, SAP Certified Consultants"
         canonicalRoute="/services/sap-implementation"
-        image="https://sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fabout-sanocom-section.381abdb9.png&w=640&q=75"
+        image="https://sanocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fabout-sanocom-section.381abdb9.png&w=640&q=75"
         schema={[faqSchema, serviceSchema]}
       />
       {/* Header Banner */}

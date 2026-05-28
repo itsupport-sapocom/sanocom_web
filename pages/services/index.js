@@ -55,7 +55,7 @@ function Services() {
 
   return (
     <>
-      <SetHeaders title='SAP Industry-Specific Solutions | Expert SAP Consulting' description="Unlock tailored SAP Industry-Specific Solutions with Sanocom's global consulting & talent expertise. Transform your business today—request your free quote now!" keywords='SAP Industry-Specific Solutions' canonicalRoute='/sap-services' image='https://sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Foverview.c3075b6b.png&w=750&q=75' />
+      <SetHeaders title='SAP Industry-Specific Solutions | Expert SAP Consulting' description="Unlock tailored SAP Industry-Specific Solutions with Sanocom's global consulting & talent expertise. Transform your business today—request your free quote now!" keywords='SAP Industry-Specific Solutions' canonicalRoute='/sap-services' image='https://sanocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Foverview.c3075b6b.png&w=750&q=75' />
 
       <HeaderBanner heading='SAP Industry-Specific Solutions for Global Projects | Sanocom Tech' para='Integrated platform for Oil & Gas, Metal & Mining to facilitate digital transformation using SAP business processes for future
 sustainability & growth.' bgImg={serviceBanner} />

@@ -2,7 +2,7 @@ import React from 'react'
 import SetHeaders from '@/layouts/SetHeaders'
 import { HeaderBanner } from '@/components/banners/banners'
 import { CtaBanner } from '@/components/banners/ctaBanners';
-import WhyChooseSapocom from '@/components/WhyChooseSapocom';
+import WhyChooseSanocom from '@/components/WhyChooseSanocom';
 import AboutIndustry from '@/components/AboutIndustry';
 import IndustryFuture from '@/components/IndustryFuture';
 import IndustryFeatures from '@/components/IndustryFeatures';
@@ -154,7 +154,7 @@ function OilGasPage() {
         "provider": {
             "@type": "Organization",
             "name": "Sanocom Global",
-            "url": "https://www.sapocomglobal.com"
+            "url": "https://www.sanocomglobal.com"
         },
         "areaServed": [
             { "@type": "Country", "name": "USA" },
@@ -167,7 +167,7 @@ function OilGasPage() {
 
     return (
         <>
-            <SetHeaders title='SAP IS-Oil & Downstream Solutions | SAP Retail Fuel & TSW | Sanocom' description='Optimize your oil & gas value chain with Sanocom. Expertise in SAP IS-Oil Downstream, TSW (Trader Scheduler Workbench), and Secondary Distribution Management for USA, UAE, & UK.' keywords='SAP IS Oil & Gas, SAP IS Oil, SAP Downstream, SAP IS-Oil Downstream, SAP Secondary Distribution Management, SAP Retail Fuel Network Operation, SAP TSW (Trader Scheduler Workbench), SAP RFNO, SAP TSW' canonicalRoute='/industries/sap-oil-gas-solutions' image='https://www.sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FindustryAbout.aaf59981.png&w=750&q=75' schema={[faqSchema, serviceSchema]} />
+            <SetHeaders title='SAP IS-Oil & Downstream Solutions | SAP Retail Fuel & TSW | Sanocom' description='Optimize your oil & gas value chain with Sanocom. Expertise in SAP IS-Oil Downstream, TSW (Trader Scheduler Workbench), and Secondary Distribution Management for USA, UAE, & UK.' keywords='SAP IS Oil & Gas, SAP IS Oil, SAP Downstream, SAP IS-Oil Downstream, SAP Secondary Distribution Management, SAP Retail Fuel Network Operation, SAP TSW (Trader Scheduler Workbench), SAP RFNO, SAP TSW' canonicalRoute='/industries/sap-oil-gas-solutions' image='https://www.sanocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FindustryAbout.aaf59981.png&w=750&q=75' schema={[faqSchema, serviceSchema]} />
 
             <HeaderBanner heading='Comprehensive SAP IS-Oil & Gas Downstream Solutions: USA | UAE | UK' para='Empower your OG&E business to drive the renewable energy future with our cutting-edge digital solutions, unlocking your full potential for sustainable growth.' bgImg={bgBanner} />
 
@@ -205,7 +205,7 @@ function OilGasPage() {
                 clientData={industryClients}
             />
 
-            <WhyChooseSapocom />
+            <WhyChooseSanocom />
 
             <FAQ faqs={oilGasFAQs} title="SAP Oil & Gas Solutions - FAQs" />
 

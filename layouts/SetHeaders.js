@@ -6,10 +6,10 @@ function SetHeaders({
   description = 'Sanocom Technologies, a sap based company to provide asap solutions to be at top in this world',
   canonicalRoute = '/',
   keywords = 'Sanocom',
-  image = 'https://sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fabout-sanocom-section.381abdb9.png&w=640&q=75',
+  image = 'https://sanocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fabout-sanocom-section.381abdb9.png&w=640&q=75',
   schema = null,
 }) {
-  const url = `https://www.sapocomglobal.com${canonicalRoute}`;
+  const url = `https://www.sanocomglobal.com${canonicalRoute}`;
   return (
     <>
       <Head>

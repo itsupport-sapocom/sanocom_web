@@ -1,7 +1,7 @@
 import React from 'react'
 import SetHeaders from '@/layouts/SetHeaders'
 import { HeaderBanner } from '@/components/banners/banners'
-import WhyChooseSapocom from '@/components/WhyChooseSapocom';
+import WhyChooseSanocom from '@/components/WhyChooseSanocom';
 import AboutIndustry from '@/components/AboutIndustry';
 import IndustryFuture from '@/components/IndustryFuture';
 import IndustryFeatures from '@/components/IndustryFeatures';
@@ -70,7 +70,7 @@ export default function Chemical() {
         clientData={industryClients}
       />
 
-      <WhyChooseSapocom />
+      <WhyChooseSanocom />
 
       <CtaBanner />
 

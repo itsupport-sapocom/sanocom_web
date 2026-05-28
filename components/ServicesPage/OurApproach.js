@@ -1,4 +1,4 @@
-import aboutSapocomSection from '@/assets/images/home/about-sanocom-section.png';
+import aboutSanocomSection from '@/assets/images/home/about-sanocom-section.png';
 import checkIcon from '@/assets/images/icons/check-with-circle.svg';
 import Image from 'next/image';
 
@@ -7,7 +7,7 @@ export function ServicesOurApproach(props) {
     approaches = [],
     title = 'Our APPROACH',
     description = '',
-    sideImage = aboutSapocomSection,
+    sideImage = aboutSanocomSection,
   } = props;
   return (
     <section className="w-full p-4 md:py-8 bg-grey">

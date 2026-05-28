@@ -45,8 +45,8 @@ export default function App({ Component, pageProps }) {
             "@context": "https://schema.org",
             "@type": "Corporation",
             "name": "Sanocom Technologies",
-            "url": "https://www.sapocomglobal.com/",
-            "logo": "https://www.sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.5a1837bf.png&w=128&q=75",
+            "url": "https://www.sanocomglobal.com/",
+            "logo": "https://www.sanocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.5a1837bf.png&w=128&q=75",
             "contactPoint": {
               "@type": "ContactPoint",
               "telephone": "95679 30025",
@@ -57,7 +57,7 @@ export default function App({ Component, pageProps }) {
             },
             "sameAs": [
               "https://www.linkedin.com/company/sanocom/",
-              "https://www.sapocomglobal.com/"
+              "https://www.sanocomglobal.com/"
             ]
           }`}
           </Script>
@@ -97,7 +97,7 @@ export default function App({ Component, pageProps }) {
               },
               "sameAs": [
                 "https://www.linkedin.com/company/sanocom/",
-                "https://www.sapocomglobal.com/"
+                "https://www.sanocomglobal.com/"
               ] 
             }`}
           </Script>
@@ -111,27 +111,27 @@ export default function App({ Component, pageProps }) {
               "@type": "ListItem", 
               "position": 1, 
               "name": "Home",
-              "item": "https://www.sapocomglobal.com/"  
+              "item": "https://www.sanocomglobal.com/"  
             },{
               "@type": "ListItem", 
               "position": 2, 
               "name": "About",
-              "item": "https://www.sapocomglobal.com/about-us"  
+              "item": "https://www.sanocomglobal.com/about-us"  
             },{
               "@type": "ListItem", 
               "position": 3, 
               "name": "Support",
-              "item": "https://sapocomglobal.com/services/support"  
+              "item": "https://sanocomglobal.com/services/support"  
             },{
               "@type": "ListItem", 
               "position": 4, 
               "name": "Serivce",
-              "item": "https://www.sapocomglobal.com/services"  
+              "item": "https://www.sanocomglobal.com/services"  
             },{
               "@type": "ListItem", 
               "position": 5, 
               "name": "Careers",
-              "item": "https://www.sapocomglobal.com/careers"  
+              "item": "https://www.sanocomglobal.com/careers"  
             }]
           }`}
       </Script>

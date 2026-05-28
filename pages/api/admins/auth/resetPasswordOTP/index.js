@@ -5,7 +5,7 @@ import { connectToDatabase } from "@/lib/db";
 import nodemailer from "nodemailer";
 
 const data = {
-  MAIL_EMAIL: "sapocomwebsiteform@gmail.com",
+  MAIL_EMAIL: "sanocomwebsiteform@gmail.com",
   MAIL_PASSWORD: "misukhzojcklpkop",
 };
 

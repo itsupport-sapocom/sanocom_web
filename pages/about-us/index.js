@@ -32,7 +32,7 @@ function AboutUs() {
         description="Expert SAP Commodity Trading & Risk Management solutions from your trusted SAP partner. Minimize risk, maximize returns. Get a free consultation from Sanocom today!"
         canonicalRoute="/about-us"
         keywords="SAP Commodity Trading & Risk Management"
-        image="https://sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcompany.79129ab0.png&w=640&q=75"
+        image="https://sanocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcompany.79129ab0.png&w=640&q=75"
       />
       {/* Header Banner */}
       <BannerWithImage

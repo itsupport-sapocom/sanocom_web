@@ -129,7 +129,7 @@ export default function ContactUsModal() {
                         <div className='w-full h-full max-md:hidden relative flex items-end'>
                             <div className="p-4 w-full z-10 text-white mb-14">
                                 <p className="opacity-60">Email us for any query :</p>
-                                <p>help@sapocomglobal@gmail.com</p>
+                                <p>help@sanocomglobal@gmail.com</p>
                             </div>
                             <Image src={contactUsModalImage} alt='contactUsSideImage' className='absolute top-0 left-0 w-full h-full object-cover rounded-lg rounded-tl-[75px]' />
                         </div>

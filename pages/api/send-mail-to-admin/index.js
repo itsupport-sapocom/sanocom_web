@@ -11,9 +11,9 @@ export const config = {
 };
 
 const data = {
-  MAIL_EMAIL: 'sapocomwebsiteform@gmail.com',
+  MAIL_EMAIL: 'sanocomwebsiteform@gmail.com',
   MAIL_PASSWORD: 'misukhzojcklpkop',
-  ADMIN_MAIL: 'websitequery@sapocomglobal.com'
+  ADMIN_MAIL: 'websitequery@sanocomglobal.com'
 }
 
 export default async function handler(req, res) {

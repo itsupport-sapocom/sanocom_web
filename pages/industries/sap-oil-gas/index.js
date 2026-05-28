@@ -2,7 +2,7 @@ import React from 'react'
 import SetHeaders from '@/layouts/SetHeaders'
 import { HeaderBanner } from '@/components/banners/banners'
 import { CtaBanner } from '@/components/banners/ctaBanners';
-import WhyChooseSapocom from '@/components/WhyChooseSapocom';
+import WhyChooseSanocom from '@/components/WhyChooseSanocom';
 import AboutIndustry from '@/components/AboutIndustry';
 import IndustryFuture from '@/components/IndustryFuture';
 import IndustryFeatures from '@/components/IndustryFeatures';
@@ -50,7 +50,7 @@ function OilGasPage() {
 
   return (
     <>
-      <SetHeaders title='SAP IS Oil & Gas Solutions for Smarter Operations' description='Power your business with SAP IS Oil & Gas and SAP IS-Oil Downstream solutions. Boost efficiency & cut costs. Contact us today!' keywords='SAP IS Oil & Gas, SAP IS Oil, SAP Downstream, SAP IS-Oil Downstream, SAP Secondary Distribution Management, SAP Retail Fuel Network Operation, SAP TSW (Trader Scheduler Workbench)' canonicalRoute='/industries/oil-and-gas' image='https://www.sapocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FindustryAbout.aaf59981.png&w=750&q=75' />
+      <SetHeaders title='SAP IS Oil & Gas Solutions for Smarter Operations' description='Power your business with SAP IS Oil & Gas and SAP IS-Oil Downstream solutions. Boost efficiency & cut costs. Contact us today!' keywords='SAP IS Oil & Gas, SAP IS Oil, SAP Downstream, SAP IS-Oil Downstream, SAP Secondary Distribution Management, SAP Retail Fuel Network Operation, SAP TSW (Trader Scheduler Workbench)' canonicalRoute='/industries/oil-and-gas' image='https://www.sanocomglobal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FindustryAbout.aaf59981.png&w=750&q=75' />
 
       <HeaderBanner heading='SAP IS Oil & Gas - Transform Your Operations With Us' para='Empower your OG&E business to drive the renewable energy future with our cutting-edge digital solutions, unlocking your full potential for sustainable growth.' bgImg={bgBanner} />
 
@@ -88,7 +88,7 @@ function OilGasPage() {
         clientData={industryClients}
       />
 
-      <WhyChooseSapocom />
+      <WhyChooseSanocom />
 
       <FAQ faqs={oilGasFAQs} title="SAP Oil & Gas Solutions - FAQs" />
 
