@@ -84,7 +84,7 @@ import team8 from "@/assets/images/about/team8.png";
 import team9 from "@/assets/images/about/team9.png";
 import team10 from "@/assets/images/about/founder.png";
 
-export const MONGODB_URL = "mongodb+srv://sanocomwebsiteadm:sanocom123@sanocomwebsite.saidz2h.mongodb.net/?retryWrites=true&w=majority";
+export const MONGODB_URL = "mongodb+srv://sapocomwebsiteadm:sapocom123@sapocomwebsite.saidz2h.mongodb.net/?retryWrites=true&w=majority";
 
 export const CLOUDINARY_CLOUD_NAME = "dgzpjzo93";
 export const CLOUDINARY_API_KEY = "629126249768428";
